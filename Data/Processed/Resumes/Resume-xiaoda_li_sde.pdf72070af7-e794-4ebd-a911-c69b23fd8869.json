@@ -1,0 +1,212 @@
+{
+              "bi_grams": "[DjangoXiaoda Li, actively seeking, seeking SDE, SDE roles, roles starting, starting March, | SDE, SDE intern, | MSCS, MSCS @UCSD, San Diego, Diego California, California United, United States, Software Engineer, Engineer Intern, San Diego, Diego California, California United, United States, Amazon Fulfillment, Fulfillment Technology, Technology AFT, Software Engineer, Engineer Intern, Shenzhen Guangdong, Guangdong China, video engine, engine development, RealTime Communication, Communication Video, Video RTCVideo, RTCVideo Team, UC San, San Diego, Computer Science, Sun Yatsen, Yatsen University, Computer Science]",
+              "clean_data": "\u00a0 \u00a0\nContact\n\nLinkedIn\nTop Skills\nPyTorch\nTensorFlow\nDjangoXiaoda Li\nactively seeking SDE roles starting March 2024 | SDE intern\n@Amazon  | MSCS @UCSD\nSan Diego California United States\nExperience\nAmazon\nSoftware Engineer Intern\nJune 2023\u00a0\u00a0Present\u00a0 5 months\nSan Diego California United States\nAmazon Fulfillment Technology AFT\nByteDance\nSoftware Engineer Intern\nDecember 2021\u00a0\u00a0August 2022\u00a0 9 months\nShenzhen Guangdong China\nvideo engine development of Lark & TikTok on Android/iOS/Mac/Win/Linux at\nRealTime Communication Video RTCVideo Team\nEducation\nUC San Diego\nMaster of Science  MS\u00a0Computer Science \u00a0\u00a0September 2022\u00a0\u00a0March 2024\nSun Yatsen University\nBachelor of Engineering  BE\u00a0Computer Science and\nTechnology \u00a0\u00a0September 2018\u00a0\u00a0June 2022\n\u00a0 Page 1 of 1",
+              "emails": [],
+              "entities": [
+                            "Amazon",
+                            "@Amazon",
+                            "iOS/Mac/Win/Linux",
+                            "San Diego",
+                            "Lark & TikTok",
+                            "United States",
+                            "China",
+                            "Guangdong",
+                            "Sun Yatsen University",
+                            "Android",
+                            "Communication Video RTCVideo Team\nEducation",
+                            "UC",
+                            "ByteDance\nSoftware Engineer Intern",
+                            "Shenzhen",
+                            "California",
+                            "Amazon Fulfillment Technology AFT"
+              ],
+              "experience": "Skills \n PyTorch \n TensorFlow \n DjangoXiaoda Li \n actively seeking SDE roles starting March 2024 | SDE intern \n @Amazon   | MSCS @UCSD \n San Diego California United States \n Experience \n Amazon \n Software Engineer Intern \n June 2023 \u00a0\u00a0 Present \u00a0  5 months \n San Diego California United States \n Amazon Fulfillment Technology AFT \n ByteDance \n Software Engineer Intern \n December 2021 \u00a0\u00a0 August 2022 \u00a0  9 months \n Shenzhen Guangdong China \n video engine development of Lark & TikTok on Android / iOS / Mac / Win / Linux at \n RealTime Communication Video RTCVideo Team \n Education \n UC San Diego \n Master of Science   MS \u00a0 Computer Science \u00a0\u00a0 September 2022 \u00a0\u00a0 March 2024 \n Sun Yatsen University \n Bachelor of Engineering   BE \u00a0 Computer Science and \n Technology \u00a0\u00a0 September 2018 \u00a0\u00a0 June 2022 \n\u00a0  Page 1 of 1",
+              "extracted_keywords": [
+                            "Contact",
+                            "LinkedIn",
+                            "Top",
+                            "Skills",
+                            "PyTorch",
+                            "TensorFlow",
+                            "DjangoXiaoda",
+                            "Li",
+                            "SDE",
+                            "roles",
+                            "March",
+                            "|",
+                            "SDE",
+                            "intern",
+                            "@Amazon",
+                            "|",
+                            "MSCS",
+                            "@UCSD",
+                            "San",
+                            "Diego",
+                            "California",
+                            "United",
+                            "States",
+                            "Experience",
+                            "Amazon",
+                            "Software",
+                            "Engineer",
+                            "Intern",
+                            "June",
+                            "Present",
+                            "months",
+                            "San",
+                            "Diego",
+                            "California",
+                            "United",
+                            "States",
+                            "Amazon",
+                            "Fulfillment",
+                            "Technology",
+                            "AFT",
+                            "ByteDance",
+                            "Software",
+                            "Engineer",
+                            "Intern",
+                            "December",
+                            "August",
+                            "months",
+                            "Shenzhen",
+                            "Guangdong",
+                            "China",
+                            "video",
+                            "engine",
+                            "development",
+                            "Lark",
+                            "TikTok",
+                            "Android",
+                            "iOS",
+                            "Mac",
+                            "Win",
+                            "Linux",
+                            "RealTime",
+                            "Communication",
+                            "Video",
+                            "RTCVideo",
+                            "Team",
+                            "Education",
+                            "UC",
+                            "San",
+                            "Diego",
+                            "Master",
+                            "Science",
+                            "MS",
+                            "Computer",
+                            "Science",
+                            "September",
+                            "March",
+                            "Sun",
+                            "Yatsen",
+                            "University",
+                            "Bachelor",
+                            "Engineering",
+                            "Computer",
+                            "Science",
+                            "Technology",
+                            "September",
+                            "June",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "San Diego California United States",
+                                          0.658456776279395
+                            ],
+                            [
+                                          "Software Engineer Intern",
+                                          0.04390001945453458
+                            ],
+                            [
+                                          "Fulfillment Technology AFT",
+                                          0.01851158507309967
+                            ],
+                            [
+                                          "video engine development",
+                                          0.01587985575891506
+                            ],
+                            [
+                                          "Communication Video RTCVideo",
+                                          0.015578079962304757
+                            ],
+                            [
+                                          "Shenzhen Guangdong China",
+                                          0.014222975725840546
+                            ],
+                            [
+                                          "SDE intern",
+                                          0.014117064705093744
+                            ],
+                            [
+                                          "March",
+                                          0.013319312625094117
+                            ],
+                            [
+                                          "SDE role",
+                                          0.013136807194514556
+                            ],
+                            [
+                                          "RealTime Communication Video",
+                                          0.012686466080258127
+                            ],
+                            [
+                                          "DjangoXiaoda Li",
+                                          0.011880494041012522
+                            ],
+                            [
+                                          "June",
+                                          0.009087680390357686
+                            ],
+                            [
+                                          "Computer Science",
+                                          0.007171439360024208
+                            ],
+                            [
+                                          "month",
+                                          0.006572633761910106
+                            ],
+                            [
+                                          "RTCVideo Team",
+                                          0.005612012216632952
+                            ],
+                            [
+                                          "UC San",
+                                          0.005550591064843846
+                            ],
+                            [
+                                          "Yatsen University",
+                                          0.004867975462001462
+                            ],
+                            [
+                                          "MSCS",
+                                          0.004861891281094524
+                            ],
+                            [
+                                          "Present",
+                                          0.004822162258405556
+                            ],
+                            [
+                                          "@Amazon",
+                                          0.004795054167593522
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADP": 7,
+                            "ADV": 1,
+                            "CCONJ": 2,
+                            "NOUN": 10,
+                            "NUM": 12,
+                            "PROPN": 75,
+                            "SPACE": 41,
+                            "SYM": 6,
+                            "VERB": 2
+              },
+              "resume_data": "\u00a0 \u00a0\nContact\nwww.linkedin.com/in/xiaoda-li\n(LinkedIn)\nTop Skills\nPyTorch\nTensorFlow\nDjangoXiaoda Li\nactively seeking SDE roles starting March 2024 | SDE intern\n@Amazon, @ByteDance | MSCS @UCSD\nSan Diego, California, United States\nExperience\nAmazon\nSoftware Engineer Intern\nJune 2023\u00a0-\u00a0Present\u00a0 (5 months)\nSan Diego, California, United States\nAmazon Fulfillment Technology (AFT)\nByteDance\nSoftware Engineer Intern\nDecember 2021\u00a0-\u00a0August 2022\u00a0 (9 months)\nShenzhen, Guangdong, China\nvideo engine development of Lark & TikTok on Android/iOS/Mac/Win/Linux at\nReal-Time Communication Video (RTC-Video) Team.\nEducation\nUC San Diego\nMaster of Science - MS,\u00a0Computer Science \u00a0\u00b7\u00a0(September 2022\u00a0-\u00a0March 2024)\nSun Yat-sen University\nBachelor of Engineering - BE,\u00a0Computer Science and\nTechnology \u00a0\u00b7\u00a0(September 2018\u00a0-\u00a0June 2022)\n\u00a0 Page 1 of 1",
+              "tri_grams": "[actively seeking SDE, seeking SDE roles, SDE roles starting, roles starting March, | SDE intern, | MSCS @UCSD, San Diego California, Diego California United, California United States, Software Engineer Intern, San Diego California, Diego California United, California United States, Amazon Fulfillment Technology, Fulfillment Technology AFT, Software Engineer Intern, Shenzhen Guangdong China, video engine development, development of Lark, TikTok on Android, RealTime Communication Video, Communication Video RTCVideo, Video RTCVideo Team, UC San Diego, Master of Science, Sun Yatsen University, Bachelor of Engineering]",
+              "unique_id": "72070af7-e794-4ebd-a911-c69b23fd8869",
+              "years": []
+}
