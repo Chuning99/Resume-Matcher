@@ -1,0 +1,188 @@
+{
+              "bi_grams": "[Digital Strategy, Microsoft Office, Adobe Creative, Creative Suite, Data Analytics, Analytics Virtual, Virtual Experience, Program Internship, TCE Certification, Advanced Foreign, Foreign Student, Inclusive Mindset, Digital Acumen, Sustainability Climate, Climate ImpactSteven, ImpactSteven Meneses, USC Leventhal, Leventhal School, Accounting |, | Incoming, Incoming Tax, Tax Associate, PricewaterhouseCoopers LLP, Los Angeles, Angeles Metropolitan, Metropolitan Area, Tax Intern, Los Angeles, Angeles Metropolitan, Metropolitan Area, Southern California]",
+              "clean_data": "\u00a0 \u00a0\nContact\n\n/\nstevenmeneses  LinkedIn\nTop Skills\nDigital Strategy\nMicrosoft Office\nAdobe Creative Suite\nCertifications\nData Analytics Virtual Experience\nProgram Internship\nVITA/TCE Certification  Basic\nAdvanced Foreign Student\nInternational\nInclusive Mindset\nDigital Acumen\nSustainability Climate ImpactSteven Meneses\nUSC Leventhal School of Accounting | Incoming Tax Associate at\nPricewaterhouseCoopers LLP\nLos Angeles Metropolitan Area\nExperience\nPwC\nTax Intern\nApril 2022\u00a0\u00a0Present\u00a0 1 year 7 months\nLos Angeles Metropolitan Area\nEducation\nUniversity of Southern California\nBachelor of Science  BS\u00a0Accounting \u00a0\u00a0August 2019\u00a0\u00a0December 2023\n\u00a0 Page 1 of 1",
+              "emails": [
+                            "smeneses@usc.edu"
+              ],
+              "entities": [
+                            "Digital Strategy",
+                            "University of Southern California\nBachelor of Science  BS\u00a0Accounting",
+                            "Microsoft Office",
+                            "LinkedIn",
+                            "Los Angeles Metropolitan Area",
+                            "Mindset",
+                            "Digital Acumen\n",
+                            "USC Leventhal School of Accounting"
+              ],
+              "experience": "Skills \n Digital Strategy \n Microsoft Office \n Adobe Creative Suite \n Certifications \n Data Analytics Virtual Experience \n Program Internship \n VITA / TCE Certification   Basic \n Advanced Foreign Student \n International \n Inclusive Mindset \n Digital Acumen \n Sustainability Climate ImpactSteven Meneses \n USC Leventhal School of Accounting | Incoming Tax Associate at \n PricewaterhouseCoopers LLP \n Los Angeles Metropolitan Area \n Experience \n PwC \n Tax Intern \n April 2022 \u00a0\u00a0 Present \u00a0  1 year 7 months \n Los Angeles Metropolitan Area \n Education \n University of Southern California \n Bachelor of Science   BS \u00a0 Accounting \u00a0\u00a0 August 2019 \u00a0\u00a0 December 2023 \n\u00a0  Page 1 of 1",
+              "extracted_keywords": [
+                            "Contact",
+                            "LinkedIn",
+                            "Top",
+                            "Skills",
+                            "Digital",
+                            "Strategy",
+                            "Microsoft",
+                            "Office",
+                            "Adobe",
+                            "Creative",
+                            "Suite",
+                            "Certifications",
+                            "Data",
+                            "Analytics",
+                            "Virtual",
+                            "Experience",
+                            "Program",
+                            "Internship",
+                            "VITA",
+                            "TCE",
+                            "Certification",
+                            "Basic",
+                            "Advanced",
+                            "Foreign",
+                            "Student",
+                            "International",
+                            "Inclusive",
+                            "Mindset",
+                            "Digital",
+                            "Acumen",
+                            "Sustainability",
+                            "Climate",
+                            "ImpactSteven",
+                            "Meneses",
+                            "USC",
+                            "Leventhal",
+                            "School",
+                            "Accounting",
+                            "|",
+                            "Incoming",
+                            "Tax",
+                            "Associate",
+                            "PricewaterhouseCoopers",
+                            "LLP",
+                            "Los",
+                            "Angeles",
+                            "Metropolitan",
+                            "Area",
+                            "Experience",
+                            "PwC",
+                            "Tax",
+                            "Intern",
+                            "April",
+                            "Present",
+                            "year",
+                            "months",
+                            "Los",
+                            "Angeles",
+                            "Metropolitan",
+                            "Area",
+                            "Education",
+                            "University",
+                            "Southern",
+                            "California",
+                            "Bachelor",
+                            "Science",
+                            "BS",
+                            "Accounting",
+                            "August",
+                            "December",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "Los Angeles Metropolitan Area",
+                                          0.5959453522007562
+                            ],
+                            [
+                                          "Incoming Tax Associate",
+                                          0.044961965060871634
+                            ],
+                            [
+                                          "USC Leventhal School",
+                                          0.03728542189404103
+                            ],
+                            [
+                                          "Climate ImpactSteven Meneses",
+                                          0.03152700947045725
+                            ],
+                            [
+                                          "Analytics virtual experience",
+                                          0.028827417768399893
+                            ],
+                            [
+                                          "Advanced Foreign Student",
+                                          0.025899884091016984
+                            ],
+                            [
+                                          "Sustainability Climate ImpactSteven",
+                                          0.02441663365622351
+                            ],
+                            [
+                                          "Data Analytics virtual",
+                                          0.021658833464840502
+                            ],
+                            [
+                                          "Adobe Creative Suite",
+                                          0.01928389935120156
+                            ],
+                            [
+                                          "Microsoft Office",
+                                          0.010557683749166252
+                            ],
+                            [
+                                          "Digital Strategy",
+                                          0.009776312447658784
+                            ],
+                            [
+                                          "TCE Certification",
+                                          0.009347317290771567
+                            ],
+                            [
+                                          "Program Internship",
+                                          0.009151398818481208
+                            ],
+                            [
+                                          "Digital Acumen",
+                                          0.008767646900066029
+                            ],
+                            [
+                                          "Inclusive Mindset",
+                                          0.008482941743502014
+                            ],
+                            [
+                                          "PricewaterhouseCoopers LLP",
+                                          0.007072843206420482
+                            ],
+                            [
+                                          "Accounting",
+                                          0.006816108036242189
+                            ],
+                            [
+                                          "Tax Intern",
+                                          0.006472680808680877
+                            ],
+                            [
+                                          "Southern California",
+                                          0.004955118060664241
+                            ],
+                            [
+                                          "Skills",
+                                          0.004492617743741129
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 1,
+                            "ADP": 5,
+                            "NOUN": 5,
+                            "NUM": 7,
+                            "PROPN": 65,
+                            "SPACE": 36,
+                            "SYM": 3
+              },
+              "resume_data": "\u00a0 \u00a0\nContact\nsmeneses@usc.edu\nwww.linkedin.com/in/\nstevenmeneses  (LinkedIn)\nTop Skills\nDigital Strategy\nMicrosoft Office\nAdobe Creative Suite\nCertifications\nData Analytics Virtual Experience\nProgram Internship\nVITA/TCE Certification - Basic,\nAdvanced, Foreign Student,\nInternational\nInclusive Mindset\nDigital Acumen\nSustainability: Climate ImpactSteven Meneses\nUSC Leventhal School of Accounting | Incoming Tax Associate at\nPricewaterhouseCoopers LLP\nLos Angeles Metropolitan Area\nExperience\nPwC\nTax Intern\nApril 2022\u00a0-\u00a0Present\u00a0 (1 year 7 months)\nLos Angeles Metropolitan Area\nEducation\nUniversity of Southern California\nBachelor of Science - BS,\u00a0Accounting \u00a0\u00b7\u00a0(August 2019\u00a0-\u00a0December 2023)\n\u00a0 Page 1 of 1",
+              "tri_grams": "[Adobe Creative Suite, Data Analytics Virtual, Analytics Virtual Experience, Advanced Foreign Student, Sustainability Climate ImpactSteven, Climate ImpactSteven Meneses, USC Leventhal School, School of Accounting, Accounting | Incoming, | Incoming Tax, Incoming Tax Associate, Los Angeles Metropolitan, Angeles Metropolitan Area, Los Angeles Metropolitan, Angeles Metropolitan Area, University of Southern, Bachelor of Science]",
+              "unique_id": "165ead8b-6a3a-4361-9443-6b677caf21f4",
+              "years": []
+}

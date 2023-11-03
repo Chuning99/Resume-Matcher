@@ -1,0 +1,39 @@
+1. 保存到
+
+mata data: 存 id 。
+
+json里面存的是 简历。
+
+UUID
+
+
+1，修改了几个bug，主要是针对简历名称太长导致无法 process 。
+查看 vertex ai 的 embedding 方法，发现最多支持 786 的输出。打算搞完数据库后使用 huggingface 的开源项目进行修改。
+第二个，将简历存进了 jsonfeil 里面
+第三个，复习 mongodb，
+第四个，将简历放进了 mongodb 里面
+
+
+下一步要做的是从简历中提取 keywork，然后重新设计 vectect database 。
+
+疑问：
+metadata 中是否无法判断应届生还是往届生。是否需要通过 API 来分析文本得知，然后放到 metadata 中。
+
+
+
+
+mongo db 显示向量数据的位置。
+
+
+向量地址，存到 mongod db
+
+Vector (with components x, y, z):
+
+对比分析 用 chatgpt提取关键字，整个完整的 text， 用keyword 来分析
+
+然后用 kenndall distance 来分析。
+
+
+
+
+

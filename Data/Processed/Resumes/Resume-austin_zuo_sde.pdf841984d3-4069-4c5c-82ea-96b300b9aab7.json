@@ -1,0 +1,210 @@
+{
+              "bi_grams": "[Python Programming, Programming Language, HTMLAustin Zuo, Software Engineer, San Francisco, Francisco Bay, Bay Area, Software Engineer, Redash Team, Software Engineering, Engineering Intern, Storage Team, Software Engineering, Engineering Intern, Foster City, City California, California United, United States, Site Reliability, Reliability Engineer, Internal Hackaton, Hackaton Winner, California Berkeley, Academic Intern, Taught students, introductory Python, Python course, California Berkeley, Computer Science]",
+              "clean_data": "\u00a0 \u00a0\nContact\n\nzuo4350a0177  LinkedIn\nTop Skills\nPython Programming Language\nJava\nHTMLAustin Zuo\nSoftware Engineer at Databricks\nSan Francisco Bay Area\nExperience\nDatabricks\nSoftware Engineer\nAugust 2022\u00a0\u00a0Present\u00a0 1 year 3 months\nRedash Team\nDatabricks\nSoftware Engineering Intern\nMay 2021\u00a0\u00a0August 2021\u00a0 4 months\nStorage Team\nVisa\nSoftware Engineering Intern\nMay 2020\u00a0\u00a0July 2020\u00a0 3 months\nFoster City California United States\nSite Reliability Engineer\nInternal Hackaton Winner\nUniversity of California Berkeley\nAcademic Intern\nAugust 2019\u00a0\u00a0May 2020\u00a0 10 months\nTaught students how to code\nCode for fun\nInstructor\nJune 2018\u00a0\u00a0September 2018\u00a0 4 months\nFremont CA\nDesigned and taught an introductory Python course\nEducation\nUniversity of California Berkeley\nBachelor of Arts  BA\u00a0Computer Science\n\u00a0 Page 1 of 1",
+              "emails": [],
+              "entities": [
+                            "Redash Team\nDatabricks\nSoftware Engineering Intern",
+                            "Foster City",
+                            "Databricks\nSan Francisco Bay Area",
+                            "California",
+                            "LinkedIn",
+                            "Internal Hackaton Winner\nUniversity of California Berkeley\nAcademic Intern",
+                            "Databricks\nSoftware Engineer",
+                            "Instructor",
+                            "Education",
+                            "United States",
+                            "Storage Team\nVisa\nSoftware Engineering Intern",
+                            "University of California Berkeley\nBachelor of Arts  BA\u00a0Computer Science\n\u00a0 Page 1",
+                            "Site Reliability Engineer"
+              ],
+              "experience": "Skills \n Python Programming Language \n Java \n HTMLAustin Zuo \n Software Engineer at Databricks \n San Francisco Bay Area \n Experience \n Databricks \n Software Engineer \n August 2022 \u00a0\u00a0 Present \u00a0  1 year 3 months \n Redash Team \n Databricks \n Software Engineering Intern \n May 2021 \u00a0\u00a0 August 2021 \u00a0  4 months \n Storage Team \n Visa \n Software Engineering Intern \n May 2020 \u00a0\u00a0 July 2020 \u00a0  3 months \n Foster City California United States \n Site Reliability Engineer \n Internal Hackaton Winner \n University of California Berkeley \n Academic Intern \n August 2019 \u00a0\u00a0 May 2020 \u00a0  10 months \n Taught students how to code \n Code for fun \n Instructor \n June 2018 \u00a0\u00a0 September 2018 \u00a0  4 months \n Fremont CA \n Designed and taught an introductory Python course \n Education \n University of California Berkeley \n Bachelor of Arts   BA \u00a0 Computer Science \n\u00a0  Page 1 of 1",
+              "extracted_keywords": [
+                            "Contact",
+                            "zuo4350a0177",
+                            "LinkedIn",
+                            "Top",
+                            "Skills",
+                            "Python",
+                            "Programming",
+                            "Language",
+                            "Java",
+                            "HTMLAustin",
+                            "Zuo",
+                            "Software",
+                            "Engineer",
+                            "Databricks",
+                            "San",
+                            "Francisco",
+                            "Bay",
+                            "Area",
+                            "Experience",
+                            "Databricks",
+                            "Software",
+                            "Engineer",
+                            "August",
+                            "Present",
+                            "year",
+                            "months",
+                            "Redash",
+                            "Team",
+                            "Databricks",
+                            "Software",
+                            "Engineering",
+                            "Intern",
+                            "May",
+                            "August",
+                            "months",
+                            "Storage",
+                            "Team",
+                            "Visa",
+                            "Software",
+                            "Engineering",
+                            "Intern",
+                            "May",
+                            "July",
+                            "months",
+                            "Foster",
+                            "City",
+                            "California",
+                            "United",
+                            "States",
+                            "Site",
+                            "Reliability",
+                            "Engineer",
+                            "Internal",
+                            "Hackaton",
+                            "Winner",
+                            "University",
+                            "California",
+                            "Berkeley",
+                            "Academic",
+                            "Intern",
+                            "August",
+                            "May",
+                            "months",
+                            "students",
+                            "Code",
+                            "fun",
+                            "Instructor",
+                            "June",
+                            "September",
+                            "months",
+                            "Fremont",
+                            "CA",
+                            "Python",
+                            "course",
+                            "Education",
+                            "University",
+                            "California",
+                            "Berkeley",
+                            "Bachelor",
+                            "Arts",
+                            "BA",
+                            "Computer",
+                            "Science",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "Foster City California United States",
+                                          0.18681752622139416
+                            ],
+                            [
+                                          "San Francisco Bay Area",
+                                          0.13338221681958243
+                            ],
+                            [
+                                          "Software Engineering Intern",
+                                          0.10048610695701625
+                            ],
+                            [
+                                          "Python Programming Language",
+                                          0.057777096627054915
+                            ],
+                            [
+                                          "month",
+                                          0.040254319563537325
+                            ],
+                            [
+                                          "Internal Hackaton Winner",
+                                          0.03772470868549242
+                            ],
+                            [
+                                          "Databricks",
+                                          0.033953063423134526
+                            ],
+                            [
+                                          "Site Reliability Engineer",
+                                          0.032835261933952094
+                            ],
+                            [
+                                          "HTMLAustin Zuo",
+                                          0.0271023973991285
+                            ],
+                            [
+                                          "August",
+                                          0.02335222709003677
+                            ],
+                            [
+                                          "California Berkeley",
+                                          0.02299765318027415
+                            ],
+                            [
+                                          "Redash Team",
+                                          0.022163070300205704
+                            ],
+                            [
+                                          "Storage Team",
+                                          0.019919918070614814
+                            ],
+                            [
+                                          "Academic Intern",
+                                          0.01689899573948066
+                            ],
+                            [
+                                          "introductory Python course",
+                                          0.01543833685595403
+                            ],
+                            [
+                                          "University",
+                                          0.013563857398374124
+                            ],
+                            [
+                                          "year",
+                                          0.01177153216064623
+                            ],
+                            [
+                                          "Present",
+                                          0.01175118425887205
+                            ],
+                            [
+                                          "Experience",
+                                          0.011169632586434084
+                            ],
+                            [
+                                          "Visa",
+                                          0.010878073098899469
+                            ]
+              ],
+              "name": [
+                            "Lin"
+              ],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 1,
+                            "ADP": 6,
+                            "CCONJ": 1,
+                            "DET": 1,
+                            "NOUN": 11,
+                            "NUM": 17,
+                            "PART": 1,
+                            "PROPN": 73,
+                            "SCONJ": 1,
+                            "SPACE": 49,
+                            "VERB": 4
+              },
+              "resume_data": "\u00a0 \u00a0\nContact\nwww.linkedin.com/in/austin-\nzuo-4350a0177  (LinkedIn)\nTop Skills\nPython (Programming Language)\nJava\nHTMLAustin Zuo\nSoftware Engineer at Databricks\nSan Francisco Bay Area\nExperience\nDatabricks\nSoftware Engineer\nAugust 2022\u00a0-\u00a0Present\u00a0 (1 year 3 months)\nRedash Team\nDatabricks\nSoftware Engineering Intern\nMay 2021\u00a0-\u00a0August 2021\u00a0 (4 months)\nStorage Team\nVisa\nSoftware Engineering Intern\nMay 2020\u00a0-\u00a0July 2020\u00a0 (3 months)\nFoster City, California, United States\nSite Reliability Engineer,\nInternal Hackaton Winner\nUniversity of California, Berkeley\nAcademic Intern\nAugust 2019\u00a0-\u00a0May 2020\u00a0 (10 months)\nTaught students how to code.\nCode for fun\nInstructor\nJune 2018\u00a0-\u00a0September 2018\u00a0 (4 months)\nFremont, CA\nDesigned and taught an introductory Python course.\nEducation\nUniversity of California, Berkeley\nBachelor of Arts - BA,\u00a0Computer Science\n\u00a0 Page 1 of 1",
+              "tri_grams": "[Python Programming Language, Engineer at Databricks, San Francisco Bay, Francisco Bay Area, Software Engineering Intern, Software Engineering Intern, Foster City California, City California United, California United States, Site Reliability Engineer, Internal Hackaton Winner, University of California, Code for fun, Designed and taught, taught an introductory, introductory Python course, University of California, Bachelor of Arts]",
+              "unique_id": "841984d3-4069-4c5c-82ea-96b300b9aab7",
+              "years": []
+}
