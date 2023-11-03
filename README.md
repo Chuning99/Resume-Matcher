@@ -75,40 +75,6 @@ Follow these steps to set up the environment and run the application.
 
     **OPTIONAL (For pyenv users)**
 
-   Run the application with pyenv (Refer this [article](https://realpython.com/intro-to-pyenv/#installing-pyenv))
-
-   - Build dependencies (on ubuntu)
-      ```
-      sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python openssl
-      ```
-      ```
-
-      sudo apt-get install build-essential zlib1g-dev libffi-dev libssl-dev libbz2-dev libreadline-dev libsqlite3-dev liblzma-dev libncurses-dev
-
-      sudo apt-get install python-tk python3-tk tk-dev
-
-      sudo apt-get install build-essential zlib1g-dev libffi-dev libssl-dev libbz2-dev libreadline-dev libsqlite3-dev liblzma-dev
-      
-      ```
-   - pyenv installer
-     ```
-        curl https://pyenv.run | bash
-     ```
-   - Install desired python version
-     ```
-       pyenv install -v 3.11.0
-     ```
-     
-   - pyenv with virtual enviroment 
-     ```
-        pyenv virtualenv 3.11.0 venv
-     ```
-     
-   - Activate virtualenv with pyenv
-     ```
-        pyenv activate venv
-     ```
-
 5. Install Dependencies:
 
    ```bash
@@ -162,5 +128,9 @@ To run the full stack web application (frontend client and backend api servers),
       url: qdrant_cluster_url
     ```
 8.  Please replace your values without any quotes.
+
+9. For the Vertex API, please floow the instuction on the official website. [Vertex API](https://cloud.google.com/vertex-ai/docs/predictions/custom-container-automl-models)
+10. For the Chatgpt part, please go to openAI website to get the api key. [OpenAI](https://beta.openai.com/)
+
 
 *Note: Please make sure that Qdrant_client's version is higher than v1.1*

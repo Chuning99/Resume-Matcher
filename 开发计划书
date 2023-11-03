@@ -26,3 +26,14 @@ mongo db 显示向量数据的位置。
 
 
 向量地址，存到 mongod db
+
+Vector (with components x, y, z):
+
+对比分析 用 chatgpt提取关键字，整个完整的 text， 用keyword 来分析
+
+然后用 kenndall distance 来分析。
+
+
+
+
+

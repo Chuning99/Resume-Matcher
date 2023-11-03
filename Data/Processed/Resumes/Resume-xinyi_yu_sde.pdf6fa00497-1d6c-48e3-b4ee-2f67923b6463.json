@@ -1,0 +1,185 @@
+{
+              "bi_grams": "[EnglishXinyi Yu, MSCS@UCLA BSE@SJTU, BSE@SJTU |, | Seeking, Summer SDE, SDE Intern, \u7f8e\u56fd \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde, \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde \u6d1b\u6749\u77f6, Software Engineer, Seattle Washington, Washington United, United States, Software Engineer, Shanghai China, iFLYTEK Co., Co. Ltd., Software Engineer, Hefei Anhui, Anhui China, Computer Science, Computer Science]",
+              "clean_data": "\u00a0 \u00a0\nContact\n\nLinkedIn\njulia0524.github.io  Personal\nTop Skills\nC++\nPython\nEnglishXinyi Yu\nMSCS@UCLA BSE@SJTU | Seeking 2022 Summer SDE Intern\n\u7f8e\u56fd \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde \u6d1b\u6749\u77f6\nExperience\nAmazon\nSoftware Engineer\nJune 2022\u00a0\u00a0September 2022\u00a0 4 months\nSeattle Washington United States\nUnity\nSoftware Engineer\nMarch 2021\u00a0\u00a0August 2021\u00a0 6 months\nShanghai China\niFLYTEK Co. Ltd.\nSoftware Engineer\nJune 2020\u00a0\u00a0February 2021\u00a0 9 months\nHefei Anhui China\nEducation\n\u52a0\u5dde\u5927\u5b66\u6d1b\u6749\u77f6\u5206\u6821\nMaster of Science  MS\u00a0Computer Science \u00a0\u00a0September 2021\u00a0\u00a0June 2023\n\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\nBachelor of Science  BS\u00a0Computer Science and Technology \u00a0\u00a0September\n2016\u00a0\u00a0June 2020\n\u00a0 Page 1 of 1",
+              "emails": [],
+              "entities": [
+                            "Shanghai",
+                            "Software Engineer",
+                            "Amazon",
+                            "Seattle",
+                            "LinkedIn",
+                            "iFLYTEK Co. Ltd.",
+                            "China",
+                            "United States",
+                            "Washington"
+              ],
+              "experience": "Skills \n C++ \n Python \n EnglishXinyi Yu \n MSCS@UCLA BSE@SJTU | Seeking 2022 Summer SDE Intern \n \u7f8e\u56fd \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde \u6d1b\u6749\u77f6 \n Experience \n Amazon \n Software Engineer \n June 2022 \u00a0\u00a0 September 2022 \u00a0  4 months \n Seattle Washington United States \n Unity \n Software Engineer \n March 2021 \u00a0\u00a0 August 2021 \u00a0  6 months \n Shanghai China \n iFLYTEK Co. Ltd. \n Software Engineer \n June 2020 \u00a0\u00a0 February 2021 \u00a0  9 months \n Hefei Anhui China \n Education \n \u52a0\u5dde\u5927\u5b66\u6d1b\u6749\u77f6\u5206\u6821 \n Master of Science   MS \u00a0 Computer Science \u00a0\u00a0 September 2021 \u00a0\u00a0 June 2023 \n \u4e0a\u6d77\u4ea4\u901a\u5927\u5b66 \n Bachelor of Science   BS \u00a0 Computer Science and Technology \u00a0\u00a0 September \n 2016 \u00a0\u00a0 June 2020 \n\u00a0  Page 1 of 1",
+              "extracted_keywords": [
+                            "Contact",
+                            "LinkedIn",
+                            "julia0524.github.io",
+                            "Personal",
+                            "Top",
+                            "Skills",
+                            "C++",
+                            "Python",
+                            "EnglishXinyi",
+                            "Yu",
+                            "MSCS@UCLA",
+                            "BSE@SJTU",
+                            "|",
+                            "Summer",
+                            "SDE",
+                            "Intern",
+                            "\u7f8e\u56fd",
+                            "\u52a0\u5229\u798f\u5c3c\u4e9a\u5dde",
+                            "\u6d1b\u6749\u77f6",
+                            "Experience",
+                            "Amazon",
+                            "Software",
+                            "Engineer",
+                            "June",
+                            "September",
+                            "months",
+                            "Seattle",
+                            "Washington",
+                            "United",
+                            "States",
+                            "Unity",
+                            "Software",
+                            "Engineer",
+                            "March",
+                            "August",
+                            "months",
+                            "Shanghai",
+                            "China",
+                            "iFLYTEK",
+                            "Co.",
+                            "Ltd.",
+                            "Software",
+                            "Engineer",
+                            "June",
+                            "February",
+                            "months",
+                            "Hefei",
+                            "Anhui",
+                            "China",
+                            "Education",
+                            "\u52a0\u5dde\u5927\u5b66\u6d1b\u6749\u77f6\u5206\u6821",
+                            "Master",
+                            "Science",
+                            "MS",
+                            "Computer",
+                            "Science",
+                            "September",
+                            "June",
+                            "\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66",
+                            "Bachelor",
+                            "Science",
+                            "BS",
+                            "Computer",
+                            "Science",
+                            "Technology",
+                            "September",
+                            "June",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "Seattle Washington United States",
+                                          0.18604028107754106
+                            ],
+                            [
+                                          "Software Engineer",
+                                          0.11727097531057548
+                            ],
+                            [
+                                          "Summer SDE Intern",
+                                          0.0835092059540447
+                            ],
+                            [
+                                          "iFLYTEK Co. Ltd.",
+                                          0.05771184712884053
+                            ],
+                            [
+                                          "Hefei Anhui China",
+                                          0.05292998679125254
+                            ],
+                            [
+                                          "June",
+                                          0.04117894994704217
+                            ],
+                            [
+                                          "MSCS@UCLA BSE@SJTU",
+                                          0.035216343565263104
+                            ],
+                            [
+                                          "\u7f8e\u56fd \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde",
+                                          0.03518889336433156
+                            ],
+                            [
+                                          "September",
+                                          0.03291958271476986
+                            ],
+                            [
+                                          "EnglishXinyi Yu",
+                                          0.030573900610200773
+                            ],
+                            [
+                                          "Shanghai China",
+                                          0.029477806739088713
+                            ],
+                            [
+                                          "month",
+                                          0.027332248082189606
+                            ],
+                            [
+                                          "Computer Science",
+                                          0.025257871429924236
+                            ],
+                            [
+                                          "Unity",
+                                          0.014810581310382098
+                            ],
+                            [
+                                          "March",
+                                          0.014241166484059289
+                            ],
+                            [
+                                          "August",
+                                          0.014167685084990111
+                            ],
+                            [
+                                          "Python",
+                                          0.01359790937461702
+                            ],
+                            [
+                                          "C++",
+                                          0.012882496870423105
+                            ],
+                            [
+                                          "Skills",
+                                          0.012140096853117507
+                            ],
+                            [
+                                          "February",
+                                          0.011998346008934126
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 1,
+                            "ADP": 5,
+                            "CCONJ": 1,
+                            "NOUN": 6,
+                            "NUM": 16,
+                            "PROPN": 59,
+                            "SPACE": 44,
+                            "VERB": 1
+              },
+              "resume_data": "\u00a0 \u00a0\nContact\nwww.linkedin.com/in/xinyiyu0524\n(LinkedIn)\njulia0524.github.io  (Personal)\nTop Skills\nC++\nPython\nEnglishXinyi Yu\nMSCS@UCLA, BSE@SJTU | Seeking 2022 Summer SDE Intern\n\u7f8e\u56fd \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde \u6d1b\u6749\u77f6\nExperience\nAmazon\nSoftware Engineer\nJune 2022\u00a0-\u00a0September 2022\u00a0 (4 months)\nSeattle, Washington, United States\nUnity\nSoftware Engineer\nMarch 2021\u00a0-\u00a0August 2021\u00a0 (6 months)\nShanghai, China\niFLYTEK Co., Ltd.\nSoftware Engineer\nJune 2020\u00a0-\u00a0February 2021\u00a0 (9 months)\nHefei, Anhui, China\nEducation\n\u52a0\u5dde\u5927\u5b66\u6d1b\u6749\u77f6\u5206\u6821\nMaster of Science - MS,\u00a0Computer Science \u00a0\u00b7\u00a0(September 2021\u00a0-\u00a0June 2023)\n\u4e0a\u6d77\u4ea4\u901a\u5927\u5b66\nBachelor of Science - BS,\u00a0Computer Science and Technology \u00a0\u00b7\u00a0(September\n2016\u00a0-\u00a0June 2020)\n\u00a0 Page 1 of 1",
+              "tri_grams": "[MSCS@UCLA BSE@SJTU |, BSE@SJTU | Seeking, Summer SDE Intern, \u7f8e\u56fd \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde \u6d1b\u6749\u77f6, Seattle Washington United, Washington United States, iFLYTEK Co. Ltd., Hefei Anhui China, Master of Science, Bachelor of Science, Science and Technology]",
+              "unique_id": "6fa00497-1d6c-48e3-b4ee-2f67923b6463",
+              "years": []
+}
