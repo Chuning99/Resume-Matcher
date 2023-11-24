@@ -1,0 +1,258 @@
+{
+              "bi_grams": "[Construction Estimating, Construction Drawings, Visual Basic, Applications VBA, BilingualAlexander Gasca, Industrialized Construction, Construction |, | Civil, Civil Engineering, Engineering |, | Advanced, Advanced Design, Construction Technology, Los Angeles, Angeles California, California United, United States, CONNECT HOMES, Los Angeles, Angeles California, California United, United States, Hunter Roberts, Roberts Construction, Construction Group, Assistant Project, Project Manager, New York, York New, New York, York United, United States, Project Engineer, New York, York New, New York, York United, United States, Assistant Estimator, New York, Project Engineer, Tufts University, Research Assistant, United States, professor Jack, Jack Germaine, develop ASTM, ASTM Standard, Standard D422, Southern California, Civil Engineering, Advanced Design, Construction Technology, Tufts University, Civil Engineering, Walter Payton, Payton College, College Prep]",
+              "clean_data": "\u00a0 \u00a0\nContact\n\ngasca305811149  LinkedIn\nTop Skills\nConstruction Estimating\nConstruction Drawings\nVisual Basic for Applications VBA\nLanguages\nEnglish  Native or Bilingual\nSpanish  Native or BilingualAlexander Gasca\nIndustrialized Construction | Civil Engineering | Advanced Design\nand Construction Technology\nLos Angeles California United States\nExperience\nCONNECT HOMES\nConstruction\nMarch 2023\u00a0\u00a0Present\u00a0 8 months\nLos Angeles California United States\nHunter Roberts Construction Group\n4 years\nAssistant Project Manager\nFebruary 2020\u00a0\u00a0June 2021\u00a0 1 year 5 months\nNew York New York United States\nProject Engineer  Operations\nNovember 2018\u00a0\u00a0February 2020\u00a0 1 year 4 months\nNew York New York United States\nAssistant Estimator\nFebruary 2018\u00a0\u00a0November 2018\u00a0 10 months\nNew York\nProject Engineer  Estimating\nJuly 2017\u00a0\u00a0February 2018\u00a0 8 months\nTufts University\nResearch Assistant\nJune 2016\u00a0\u00a0August 2016\u00a0 3 months\nUnited States\nWorked under professor Jack Germaine to develop ASTM Standard D422\nEducation\nUniversity of Southern California\nMaster of Science  MS\u00a0Civil Engineering  Advanced Design and\nConstruction Technology \u00a0\u00a02021\u00a0\u00a0December 2022\n\u00a0 Page 1 of 2 \u00a0 \u00a0\nTufts University\nBachelor of Science  BS\u00a0Civil Engineering \u00a0\u00a02013\u00a0\u00a02017\nWalter Payton College Prep\n\u00a0\u00a02009\u00a0\u00a02013\n\u00a0 Page 2 of 2",
+              "emails": [],
+              "entities": [
+                            "Walter Payton College",
+                            "Tufts University",
+                            "LinkedIn",
+                            "Project Engineer  Operations",
+                            "ASTM",
+                            "Civil Engineering",
+                            "Education",
+                            "New York",
+                            "gasca305811149",
+                            "United States",
+                            "Los Angeles",
+                            "Construction Technology",
+                            "Hunter Roberts Construction Group",
+                            "California",
+                            "University of Southern California\nMaster of Science  MS\u00a0Civil Engineering  Advanced Design"
+              ],
+              "experience": "Skills \n Construction Estimating \n Construction Drawings \n Visual Basic for Applications VBA \n Languages \n English   Native or Bilingual \n Spanish   Native or BilingualAlexander Gasca \n Industrialized Construction | Civil Engineering | Advanced Design \n and Construction Technology \n Los Angeles California United States \n Experience \n CONNECT HOMES \n Construction \n March 2023 \u00a0\u00a0 Present \u00a0  8 months \n Los Angeles California United States \n Hunter Roberts Construction Group \n 4 years \n Assistant Project Manager \n February 2020 \u00a0\u00a0 June 2021 \u00a0  1 year 5 months \n New York New York United States \n Project Engineer   Operations \n November 2018 \u00a0\u00a0 February 2020 \u00a0  1 year 4 months \n New York New York United States \n Assistant Estimator \n February 2018 \u00a0\u00a0 November 2018 \u00a0  10 months \n New York \n Project Engineer   Estimating \n July 2017 \u00a0\u00a0 February 2018 \u00a0  8 months \n Tufts University \n Research Assistant \n June 2016 \u00a0\u00a0 August 2016 \u00a0  3 months \n United States \n Worked under professor Jack Germaine to develop ASTM Standard D422 \n Education \n University of Southern California \n Master of Science   MS \u00a0 Civil Engineering   Advanced Design and \n Construction Technology \u00a0\u00a0 2021 \u00a0\u00a0 December 2022 \n\u00a0  Page 1 of 2 \u00a0 \u00a0\n Tufts University \n Bachelor of Science   BS \u00a0 Civil Engineering \u00a0\u00a0 2013 \u00a0\u00a0 2017 \n Walter Payton College Prep \n\u00a0\u00a0 2009 \u00a0\u00a0 2013 \n\u00a0  Page 2 of 2",
+              "extracted_keywords": [
+                            "gasca305811149",
+                            "LinkedIn",
+                            "Top",
+                            "Skills",
+                            "Construction",
+                            "Estimating",
+                            "Construction",
+                            "Drawings",
+                            "Visual",
+                            "Basic",
+                            "Applications",
+                            "VBA",
+                            "Languages",
+                            "English",
+                            "Native",
+                            "Bilingual",
+                            "Spanish",
+                            "Native",
+                            "BilingualAlexander",
+                            "Gasca",
+                            "Industrialized",
+                            "Construction",
+                            "|",
+                            "Civil",
+                            "Engineering",
+                            "|",
+                            "Advanced",
+                            "Design",
+                            "Construction",
+                            "Technology",
+                            "Los",
+                            "Angeles",
+                            "California",
+                            "United",
+                            "States",
+                            "Experience",
+                            "CONNECT",
+                            "HOMES",
+                            "Construction",
+                            "March",
+                            "Present",
+                            "months",
+                            "Los",
+                            "Angeles",
+                            "California",
+                            "United",
+                            "States",
+                            "Hunter",
+                            "Roberts",
+                            "Construction",
+                            "Group",
+                            "years",
+                            "Assistant",
+                            "Project",
+                            "Manager",
+                            "February",
+                            "June",
+                            "year",
+                            "months",
+                            "New",
+                            "York",
+                            "New",
+                            "York",
+                            "United",
+                            "States",
+                            "Project",
+                            "Engineer",
+                            "Operations",
+                            "November",
+                            "February",
+                            "year",
+                            "months",
+                            "New",
+                            "York",
+                            "New",
+                            "York",
+                            "United",
+                            "States",
+                            "Assistant",
+                            "Estimator",
+                            "February",
+                            "November",
+                            "months",
+                            "New",
+                            "York",
+                            "Project",
+                            "Engineer",
+                            "Estimating",
+                            "July",
+                            "February",
+                            "months",
+                            "Tufts",
+                            "University",
+                            "Research",
+                            "Assistant",
+                            "June",
+                            "August",
+                            "months",
+                            "United",
+                            "States",
+                            "professor",
+                            "Jack",
+                            "Germaine",
+                            "ASTM",
+                            "Standard",
+                            "D422",
+                            "Education",
+                            "University",
+                            "Southern",
+                            "California",
+                            "Master",
+                            "Science",
+                            "MS",
+                            "Civil",
+                            "Engineering",
+                            "Advanced",
+                            "Design",
+                            "Construction",
+                            "Technology",
+                            "December",
+                            "Page",
+                            "Tufts",
+                            "University",
+                            "Bachelor",
+                            "Science",
+                            "BS",
+                            "Civil",
+                            "Engineering",
+                            "Walter",
+                            "Payton",
+                            "College",
+                            "Prep",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "New York New York United States",
+                                          0.39851065587245865
+                            ],
+                            [
+                                          "Los Angeles California United States",
+                                          0.13814447813094852
+                            ],
+                            [
+                                          "Construction",
+                                          0.046734494252868256
+                            ],
+                            [
+                                          "Civil Engineering",
+                                          0.04534012701192855
+                            ],
+                            [
+                                          "Construction Technology",
+                                          0.039886802805822234
+                            ],
+                            [
+                                          "Advanced Design",
+                                          0.0388558286190513
+                            ],
+                            [
+                                          "Project Engineer",
+                                          0.017924723197424497
+                            ],
+                            [
+                                          "month",
+                                          0.016833951053947978
+                            ],
+                            [
+                                          "Estimating",
+                                          0.014592345210798588
+                            ],
+                            [
+                                          "Tufts University",
+                                          0.0105524900455846
+                            ],
+                            [
+                                          "February",
+                                          0.01000133497569184
+                            ],
+                            [
+                                          "year",
+                                          0.009652699891852412
+                            ],
+                            [
+                                          "Assistant",
+                                          0.008716251466775345
+                            ],
+                            [
+                                          "Native",
+                                          0.00867770888562488
+                            ],
+                            [
+                                          "June",
+                                          0.006501439729409533
+                            ],
+                            [
+                                          "Drawings",
+                                          0.005559676505375459
+                            ],
+                            [
+                                          "VBA",
+                                          0.005451721914999568
+                            ],
+                            [
+                                          "November",
+                                          0.005429925553387397
+                            ],
+                            [
+                                          "Basic",
+                                          0.005411454996806046
+                            ],
+                            [
+                                          "Languages",
+                                          0.005405093921812321
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 1,
+                            "ADP": 7,
+                            "CCONJ": 4,
+                            "NOUN": 13,
+                            "NUM": 30,
+                            "PART": 1,
+                            "PROPN": 118,
+                            "SPACE": 72,
+                            "SYM": 2,
+                            "VERB": 2
+              },
+              "resume_data": "\u00a0 \u00a0\nContact\nwww.linkedin.com/in/alexander-\ngasca-305811149  (LinkedIn)\nTop Skills\nConstruction Estimating\nConstruction Drawings\nVisual Basic for Applications (VBA)\nLanguages\nEnglish  (Native or Bilingual)\nSpanish  (Native or Bilingual)Alexander Gasca\nIndustrialized Construction | Civil Engineering | Advanced Design\nand Construction Technology\nLos Angeles, California, United States\nExperience\nCONNECT HOMES\nConstruction\nMarch 2023\u00a0-\u00a0Present\u00a0 (8 months)\nLos Angeles, California, United States\nHunter Roberts Construction Group\n4 years\nAssistant Project Manager\nFebruary 2020\u00a0-\u00a0June 2021\u00a0 (1 year 5 months)\nNew York, New York, United States\nProject Engineer - Operations\nNovember 2018\u00a0-\u00a0February 2020\u00a0 (1 year 4 months)\nNew York, New York, United States\nAssistant Estimator\nFebruary 2018\u00a0-\u00a0November 2018\u00a0 (10 months)\nNew York\nProject Engineer - Estimating\nJuly 2017\u00a0-\u00a0February 2018\u00a0 (8 months)\nTufts University\nResearch Assistant\nJune 2016\u00a0-\u00a0August 2016\u00a0 (3 months)\nUnited States\nWorked under professor Jack Germaine to develop ASTM Standard D-422.\nEducation\nUniversity of Southern California\nMaster of Science - MS,\u00a0Civil Engineering - Advanced Design and\nConstruction Technology \u00a0\u00b7\u00a0(2021\u00a0-\u00a0December 2022)\n\u00a0 Page 1 of 2 \u00a0 \u00a0\nTufts University\nBachelor of Science - BS,\u00a0Civil Engineering \u00a0\u00b7\u00a0(2013\u00a0-\u00a02017)\nWalter Payton College Prep\n\u00a0\u00b7\u00a0(2009\u00a0-\u00a02013)\n\u00a0 Page 2 of 2",
+              "tri_grams": "[Basic for Applications, Native or Bilingual, Native or BilingualAlexander, Industrialized Construction |, Construction | Civil, | Civil Engineering, Civil Engineering |, Engineering | Advanced, | Advanced Design, Los Angeles California, Angeles California United, California United States, Los Angeles California, Angeles California United, California United States, Hunter Roberts Construction, Roberts Construction Group, Assistant Project Manager, New York New, York New York, New York United, York United States, New York New, York New York, New York United, York United States, Worked under professor, professor Jack Germaine, Germaine to develop, develop ASTM Standard, ASTM Standard D422, University of Southern, Master of Science, Bachelor of Science, Walter Payton College, Payton College Prep]",
+              "unique_id": "d0dec414-aeaf-4044-9073-6f7348330d91",
+              "years": []
+}

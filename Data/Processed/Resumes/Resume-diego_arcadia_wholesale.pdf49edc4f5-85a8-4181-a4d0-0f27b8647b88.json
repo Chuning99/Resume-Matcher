@@ -1,0 +1,183 @@
+{
+              "bi_grams": "[Account Management, Accounts Payable, DetailDiego Arcadia, Experienced Bookkeeper, Wholesale Industry, Industry |, | Aspiring, Aspiring CPA, Los Angeles, Angeles Metropolitan, Metropolitan Area, Artoy Trading, Trading LLC, Commerce California, California United, United States, Prepare invoices, bill customers, customers Update, Update customer, customer ledgers, payments Updating, Updating AR, AR payments, Foothill College, UC Irvine, Global Studies]",
+              "clean_data": "\u00a0 \u00a0\nContact\n\narcadia3b8b96197  LinkedIn\nTop Skills\nAccount Management\nAccounts Payable & Receivable\nAttention to DetailDiego Arcadia\nExperienced Bookkeeper in Wholesale Industry | Aspiring CPA\nLos Angeles Metropolitan Area\nExperience\nArtoy Trading LLC\nBookkeeper\nJune 2022\u00a0\u00a0Present\u00a0 1 year 5 months\nCommerce California United States\nPrepare invoices and bill customers Update customer ledgers and apply\npayments Updating AR payments\nEducation\nFoothill College\nAccounting and Finance \u00a0\u00a0July 2023\u00a0\u00a0March 2024\nUC Irvine\nBachelor's degree\u00a0International/Global Studies \u00a0\u00a02018\u00a0\u00a02022\n\u00a0 Page 1 of 1",
+              "emails": [],
+              "entities": [
+                            "Bookkeeper",
+                            "International/Global Studies",
+                            "California",
+                            "Artoy",
+                            "United States",
+                            "Experienced Bookkeeper",
+                            "Los Angeles Metropolitan Area",
+                            "Account Management\nAccounts Payable & Receivable\nAttention",
+                            "Update",
+                            "Education",
+                            "Foothill College\nAccounting and Finance",
+                            "DetailDiego Arcadia",
+                            "LLC",
+                            "Wholesale Industry"
+              ],
+              "experience": "Skills \n Account Management \n Accounts Payable & Receivable \n Attention to DetailDiego Arcadia \n Experienced Bookkeeper in Wholesale Industry | Aspiring CPA \n Los Angeles Metropolitan Area \n Experience \n Artoy Trading LLC \n Bookkeeper \n June 2022 \u00a0\u00a0 Present \u00a0  1 year 5 months \n Commerce California United States \n Prepare invoices and bill customers Update customer ledgers and apply \n payments Updating AR payments \n Education \n Foothill College \n Accounting and Finance \u00a0\u00a0 July 2023 \u00a0\u00a0 March 2024 \n UC Irvine \n Bachelor 's degree \u00a0 International / Global Studies \u00a0\u00a0 2018 \u00a0\u00a0 2022 \n\u00a0  Page 1 of 1",
+              "extracted_keywords": [
+                            "Contact",
+                            "arcadia3b8b96197",
+                            "LinkedIn",
+                            "Top",
+                            "Skills",
+                            "Account",
+                            "Management",
+                            "Accounts",
+                            "Payable",
+                            "Receivable",
+                            "Attention",
+                            "DetailDiego",
+                            "Arcadia",
+                            "Bookkeeper",
+                            "Wholesale",
+                            "Industry",
+                            "|",
+                            "CPA",
+                            "Los",
+                            "Angeles",
+                            "Metropolitan",
+                            "Area",
+                            "Experience",
+                            "Artoy",
+                            "Trading",
+                            "LLC",
+                            "Bookkeeper",
+                            "June",
+                            "Present",
+                            "year",
+                            "months",
+                            "Commerce",
+                            "California",
+                            "United",
+                            "States",
+                            "Prepare",
+                            "invoices",
+                            "bill",
+                            "customers",
+                            "customer",
+                            "ledgers",
+                            "payments",
+                            "AR",
+                            "payments",
+                            "Education",
+                            "Foothill",
+                            "College",
+                            "Accounting",
+                            "Finance",
+                            "July",
+                            "March",
+                            "UC",
+                            "Irvine",
+                            "Bachelor",
+                            "degree",
+                            "International",
+                            "Global",
+                            "Studies",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "Commerce California United States",
+                                          0.20813618140615642
+                            ],
+                            [
+                                          "Los Angeles Metropolitan Area",
+                                          0.14809422999543542
+                            ],
+                            [
+                                          "Artoy Trading LLC",
+                                          0.0748847744955519
+                            ],
+                            [
+                                          "Aspiring cpa",
+                                          0.045508987673162415
+                            ],
+                            [
+                                          "Wholesale Industry",
+                                          0.04060196558031359
+                            ],
+                            [
+                                          "Experienced Bookkeeper",
+                                          0.0366693395602459
+                            ],
+                            [
+                                          "Accounts payable",
+                                          0.03305545555304025
+                            ],
+                            [
+                                          "DetailDiego Arcadia",
+                                          0.033041918901186074
+                            ],
+                            [
+                                          "Account Management",
+                                          0.029100828281795926
+                            ],
+                            [
+                                          "customer ledger",
+                                          0.024809896352785892
+                            ],
+                            [
+                                          "AR payment",
+                                          0.023503251337548527
+                            ],
+                            [
+                                          "bill customer",
+                                          0.02333486884600881
+                            ],
+                            [
+                                          "Foothill College",
+                                          0.02318267163392226
+                            ],
+                            [
+                                          "UC Irvine",
+                                          0.017127507288225194
+                            ],
+                            [
+                                          "Global Studies",
+                                          0.01343388413165952
+                            ],
+                            [
+                                          "attention",
+                                          0.01146823442852523
+                            ],
+                            [
+                                          "Skills",
+                                          0.011265690919797323
+                            ],
+                            [
+                                          "month",
+                                          0.010890036820359397
+                            ],
+                            [
+                                          "receivable",
+                                          0.01087757700770855
+                            ],
+                            [
+                                          "LinkedIn",
+                                          0.010740486469468992
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 2,
+                            "ADP": 3,
+                            "CCONJ": 4,
+                            "NOUN": 13,
+                            "NUM": 9,
+                            "PART": 1,
+                            "PROPN": 44,
+                            "SPACE": 29,
+                            "SYM": 2,
+                            "VERB": 4
+              },
+              "resume_data": "\u00a0 \u00a0\nContact\nwww.linkedin.com/in/diego-\narcadia-3b8b96197  (LinkedIn)\nTop Skills\nAccount Management\nAccounts Payable & Receivable\nAttention to DetailDiego Arcadia\nExperienced Bookkeeper in Wholesale Industry | Aspiring CPA\nLos Angeles Metropolitan Area\nExperience\nArtoy Trading LLC\nBookkeeper\nJune 2022\u00a0-\u00a0Present\u00a0 (1 year 5 months)\nCommerce, California, United States\nPrepare invoices and bill customers. Update customer ledgers and apply\npayments. Updating AR payments\nEducation\nFoothill College\nAccounting and Finance \u00a0\u00b7\u00a0(July 2023\u00a0-\u00a0March 2024)\nUC Irvine\nBachelor's degree,\u00a0International/Global Studies \u00a0\u00b7\u00a0(2018\u00a0-\u00a02022)\n\u00a0 Page 1 of 1",
+              "tri_grams": "[Attention to DetailDiego, Bookkeeper in Wholesale, Wholesale Industry |, Industry | Aspiring, | Aspiring CPA, Los Angeles Metropolitan, Angeles Metropolitan Area, Artoy Trading LLC, Commerce California United, California United States, invoices and bill, bill customers Update, customers Update customer, Update customer ledgers, ledgers and apply, payments Updating AR, Updating AR payments, Accounting and Finance, Bachelor's degree]",
+              "unique_id": "49edc4f5-85a8-4181-a4d0-0f27b8647b88",
+              "years": []
+}

@@ -1,0 +1,241 @@
+{
+              "bi_grams": "[Computer Science, Problem SolvingDennis, SolvingDennis Mo, Software Engineer, San Francisco, Francisco California, California United, United States, Computer Science, Science student, Software Engineer, San Francisco, Francisco California, California United, United States, Bloomberg LP, Software Engineering, Engineering Intern, New York, York New, New York, York United, United States, Developer container, Software Engineer, Engineer Intern, San Francisco, Francisco Bay, Bay Area, Secret management, Software Engineer, Engineer Intern, Dashcam team, Software Engineer, Engineer Intern, Ads team, Thomson Reuters, Software Engineer, Data Science, Waterloo Ontario, Ontario Canada, Thomson Reuters, Reuters Labs, Labs ML, ML infra, Software Engineer, Engineer Intern, Toronto Canada, Canada Area, Wish Local, Local team, Computer Science, Computer Science]",
+              "clean_data": "\u00a0 \u00a0\nContact\n\nLinkedIn\nTop Skills\nResearch\nComputer Science\nProblem SolvingDennis Mo\nSoftware Engineer @ Databricks\nSan Francisco California United States\nSummary\nComputer Science student at University of Waterloo\nExperience\nDatabricks\nSoftware Engineer\nJuly 2023\u00a0\u00a0Present\u00a0 4 months\nSan Francisco California United States\nBloomberg LP\nSoftware Engineering Intern\nAugust 2022\u00a0\u00a0December 2022\u00a0 5 months\nNew York New York United States\nDeveloper container \nDatabricks\nSoftware Engineer Intern\nMay 2022\u00a0\u00a0August 2022\u00a0 4 months\nSan Francisco Bay Area\nSecret management\nUber\nSoftware Engineer Intern\nSeptember 2021\u00a0\u00a0December 2021\u00a0 4 months\nDashcam team\nWish\nSoftware Engineer Intern\nJanuary 2021\u00a0\u00a0April 2021\u00a0 4 months\nAds team\nThomson Reuters\nSoftware Engineer for Data Science\nMay 2020\u00a0\u00a0August 2020\u00a0 4 months\n\u00a0 Page 1 of 2 \u00a0 \u00a0\nWaterloo Ontario Canada\nThomson Reuters Labs ML infra\nWish\nSoftware Engineer Intern\nSeptember 2019\u00a0\u00a0December 2019\u00a0 4 months\nToronto Canada Area\nWish Local team\nEducation\nUniversity of Waterloo\nBachelor of Computer Science\u00a0Computer Science \u00a0\u00a02018\u00a0\u00a02023\n\u00a0 Page 2 of 2",
+              "emails": [],
+              "entities": [
+                            "Databricks\nSoftware Engineer Intern",
+                            "California",
+                            "United States",
+                            "Thomson Reuters Labs ML",
+                            "Toronto Canada Area",
+                            "Software Engineer for Data Science",
+                            "University of Waterloo\nExperience\n",
+                            "Software Engineer @ Databricks",
+                            "New York",
+                            "Thomson Reuters",
+                            "Education",
+                            "San Francisco",
+                            "Databricks\nSoftware Engineer"
+              ],
+              "experience": "Skills \n Research \n Computer Science \n Problem SolvingDennis Mo \n Software Engineer @ Databricks \n San Francisco California United States \n Summary \n Computer Science student at University of Waterloo \n Experience \n Databricks \n Software Engineer \n July 2023 \u00a0\u00a0 Present \u00a0  4 months \n San Francisco California United States \n Bloomberg LP \n Software Engineering Intern \n August 2022 \u00a0\u00a0 December 2022 \u00a0  5 months \n New York New York United States \n Developer container \n Databricks \n Software Engineer Intern \n May 2022 \u00a0\u00a0 August 2022 \u00a0  4 months \n San Francisco Bay Area \n Secret management \n Uber \n Software Engineer Intern \n September 2021 \u00a0\u00a0 December 2021 \u00a0  4 months \n Dashcam team \n Wish \n Software Engineer Intern \n January 2021 \u00a0\u00a0 April 2021 \u00a0  4 months \n Ads team \n Thomson Reuters \n Software Engineer for Data Science \n May 2020 \u00a0\u00a0 August 2020 \u00a0  4 months \n\u00a0  Page 1 of 2 \u00a0 \u00a0\n Waterloo Ontario Canada \n Thomson Reuters Labs ML infra \n Wish \n Software Engineer Intern \n September 2019 \u00a0\u00a0 December 2019 \u00a0  4 months \n Toronto Canada Area \n Wish Local team \n Education \n University of Waterloo \n Bachelor of Computer Science \u00a0 Computer Science \u00a0\u00a0 2018 \u00a0\u00a0 2023 \n\u00a0  Page 2 of 2",
+              "extracted_keywords": [
+                            "Contact",
+                            "LinkedIn",
+                            "Top",
+                            "Skills",
+                            "Research",
+                            "Computer",
+                            "Science",
+                            "Problem",
+                            "SolvingDennis",
+                            "Mo",
+                            "Software",
+                            "Engineer",
+                            "Databricks",
+                            "San",
+                            "Francisco",
+                            "California",
+                            "United",
+                            "States",
+                            "Summary",
+                            "Computer",
+                            "Science",
+                            "student",
+                            "University",
+                            "Waterloo",
+                            "Experience",
+                            "Databricks",
+                            "Software",
+                            "Engineer",
+                            "July",
+                            "Present",
+                            "months",
+                            "San",
+                            "Francisco",
+                            "California",
+                            "United",
+                            "States",
+                            "Bloomberg",
+                            "LP",
+                            "Software",
+                            "Engineering",
+                            "Intern",
+                            "August",
+                            "December",
+                            "months",
+                            "New",
+                            "York",
+                            "New",
+                            "York",
+                            "United",
+                            "States",
+                            "Developer",
+                            "container",
+                            "Databricks",
+                            "Software",
+                            "Engineer",
+                            "Intern",
+                            "May",
+                            "August",
+                            "months",
+                            "San",
+                            "Francisco",
+                            "Bay",
+                            "Area",
+                            "management",
+                            "Uber",
+                            "Software",
+                            "Engineer",
+                            "Intern",
+                            "September",
+                            "December",
+                            "months",
+                            "Dashcam",
+                            "team",
+                            "Wish",
+                            "Software",
+                            "Engineer",
+                            "Intern",
+                            "January",
+                            "April",
+                            "months",
+                            "Ads",
+                            "team",
+                            "Thomson",
+                            "Reuters",
+                            "Software",
+                            "Engineer",
+                            "Data",
+                            "Science",
+                            "May",
+                            "August",
+                            "months",
+                            "Page",
+                            "Waterloo",
+                            "Ontario",
+                            "Canada",
+                            "Thomson",
+                            "Reuters",
+                            "Labs",
+                            "ML",
+                            "Wish",
+                            "Software",
+                            "Engineer",
+                            "Intern",
+                            "September",
+                            "December",
+                            "months",
+                            "Toronto",
+                            "Canada",
+                            "Area",
+                            "Wish",
+                            "Local",
+                            "team",
+                            "Education",
+                            "University",
+                            "Waterloo",
+                            "Bachelor",
+                            "Computer",
+                            "Science",
+                            "Computer",
+                            "Science",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "San Francisco California United States",
+                                          0.5954164892017343
+                            ],
+                            [
+                                          "Software Engineer Intern",
+                                          0.0578122477165034
+                            ],
+                            [
+                                          "Computer Science",
+                                          0.04370388823519257
+                            ],
+                            [
+                                          "Computer Science student",
+                                          0.02204390007956006
+                            ],
+                            [
+                                          "Problem SolvingDennis Mo",
+                                          0.021212689788949853
+                            ],
+                            [
+                                          "New York",
+                                          0.012213946020787602
+                            ],
+                            [
+                                          "month",
+                                          0.00993228644521386
+                            ],
+                            [
+                                          "Databricks",
+                                          0.00883157722064457
+                            ],
+                            [
+                                          "Engineering Intern",
+                                          0.007926521156129272
+                            ],
+                            [
+                                          "York United",
+                                          0.007805393338263909
+                            ],
+                            [
+                                          "developer container",
+                                          0.007684639177607354
+                            ],
+                            [
+                                          "Software Engineering",
+                                          0.007517509441966984
+                            ],
+                            [
+                                          "Bloomberg LP",
+                                          0.0073786971854549206
+                            ],
+                            [
+                                          "Thomson Reuters",
+                                          0.006905898226777688
+                            ],
+                            [
+                                          "Secret management",
+                                          0.006752316096524609
+                            ],
+                            [
+                                          "Bay Area",
+                                          0.006719514012995375
+                            ],
+                            [
+                                          "Francisco Bay",
+                                          0.006435292795735896
+                            ],
+                            [
+                                          "University",
+                                          0.005796666408483442
+                            ],
+                            [
+                                          "Dashcam team",
+                                          0.005764345321243385
+                            ],
+                            [
+                                          "August",
+                                          0.005584671623935988
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 1,
+                            "ADP": 8,
+                            "NOUN": 19,
+                            "NUM": 26,
+                            "PRON": 1,
+                            "PROPN": 102,
+                            "SPACE": 65
+              },
+              "resume_data": "\u00a0 \u00a0\nContact\nwww.linkedin.com/in/dymo\n(LinkedIn)\nTop Skills\nResearch\nComputer Science\nProblem SolvingDennis Mo\nSoftware Engineer @ Databricks\nSan Francisco, California, United States\nSummary\nComputer Science student at University of Waterloo.\nExperience\nDatabricks\nSoftware Engineer\nJuly 2023\u00a0-\u00a0Present\u00a0 (4 months)\nSan Francisco, California, United States\nBloomberg LP\nSoftware Engineering Intern\nAugust 2022\u00a0-\u00a0December 2022\u00a0 (5 months)\nNew York, New York, United States\nDeveloper container \nDatabricks\nSoftware Engineer Intern\nMay 2022\u00a0-\u00a0August 2022\u00a0 (4 months)\nSan Francisco Bay Area\nSecret management\nUber\nSoftware Engineer Intern\nSeptember 2021\u00a0-\u00a0December 2021\u00a0 (4 months)\nDashcam team\nWish\nSoftware Engineer Intern\nJanuary 2021\u00a0-\u00a0April 2021\u00a0 (4 months)\nAds team\nThomson Reuters\nSoftware Engineer for Data Science\nMay 2020\u00a0-\u00a0August 2020\u00a0 (4 months)\n\u00a0 Page 1 of 2 \u00a0 \u00a0\nWaterloo, Ontario, Canada\nThomson Reuters Labs ML infra\nWish\nSoftware Engineer Intern\nSeptember 2019\u00a0-\u00a0December 2019\u00a0 (4 months)\nToronto, Canada Area\nWish Local team\nEducation\nUniversity of Waterloo\nBachelor of Computer Science,\u00a0Computer Science \u00a0\u00b7\u00a0(2018\u00a0-\u00a02023)\n\u00a0 Page 2 of 2",
+              "tri_grams": "[Problem SolvingDennis Mo, San Francisco California, Francisco California United, California United States, Computer Science student, student at University, University of Waterloo, San Francisco California, Francisco California United, California United States, Software Engineering Intern, New York New, York New York, New York United, York United States, Software Engineer Intern, San Francisco Bay, Francisco Bay Area, Software Engineer Intern, Software Engineer Intern, Engineer for Data, Waterloo Ontario Canada, Thomson Reuters Labs, Reuters Labs ML, Labs ML infra, Software Engineer Intern, Toronto Canada Area, Wish Local team, University of Waterloo, Bachelor of Computer]",
+              "unique_id": "14ddf42b-3318-46af-b907-5e1a6a705dd8",
+              "years": []
+}

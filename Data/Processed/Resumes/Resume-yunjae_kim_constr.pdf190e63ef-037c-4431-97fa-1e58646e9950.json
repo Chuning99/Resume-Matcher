@@ -1,0 +1,165 @@
+{
+              "bi_grams": "[\ub300\ud45c \ubcf4\uc720\uae30\uc220, \ud504\ub85c\uc81d\ud2b8 \uad00\ub9ac, \uad00\ub9ac \uc18c\ud504\ud2b8\uc6e8\uc5b4, \ubd84\uc790\uc0dd\ubb3c\ud559Yunjae Kim, Construction Project, Project Coordinator, \ubbf8\uad6d \uce98\ub9ac\ud3ec\ub2c8\uc544, \uce98\ub9ac\ud3ec\ub2c8\uc544 \uc560\ub108\ud558\uc784, speciality skills, MEP plan, GENTLE MONSTER, Construction Project, Project Coordinator, 2022\ub144 9\uc6d4, 1\ub144 2\uac1c\uc6d4, Project Lead, 2021\ub144 11\uc6d4, 2022\ub144 9\uc6d4, Yonsei University, University \uc5f0\uc138\ub300\ud559\uad50, Enviromental Engineering, 2022\ub144 2\uc6d4]",
+              "clean_data": "\u00a0 \u00a0\n\uc5f0\ub77d\ucc98\n\nkim14140022b  LinkedIn\n\ub300\ud45c \ubcf4\uc720\uae30\uc220\n\ud504\ub85c\uc81d\ud2b8 \uad00\ub9ac \uc18c\ud504\ud2b8\uc6e8\uc5b4\n\ud30c\uc774\ud1a4\n\ubd84\uc790\uc0dd\ubb3c\ud559Yunjae Kim\nConstruction Project Coordinator\n\ubbf8\uad6d \uce98\ub9ac\ud3ec\ub2c8\uc544 \uc560\ub108\ud558\uc784\n\uac04\ub2e8\ud504\ub85c\ud544\nRead & Understand the drawings\nHas the speciality skills of reading the MEP plan and calculation\n\uacbd\ub825\nGENTLE MONSTER\nConstruction Project Coordinator\n2022\ub144 9\uc6d4\u00a0\u00a0Present\u00a0 1\ub144 2\uac1c\uc6d4\n\ubbf8\uad6d\n\ube4c\ub4dc\ube14\ub85dBuildBlock\nProject Lead\n2021\ub144 11\uc6d4\u00a0\u00a02022\ub144 9\uc6d4\u00a0 11\uac1c\uc6d4\n\ubbf8\uad6d\n\ud559\ub825\nYonsei University \uc5f0\uc138\ub300\ud559\uad50\nBachelor of Engineering  BE\u00a0Civil & Enviromental Engineering \u00a0\u00a02014\ub144 3\n\uc6d4\u00a0\u00a02022\ub144 2\uc6d4\n\u00a0 Page 1 of 1",
+              "emails": [],
+              "entities": [
+                            "MEP",
+                            "Yonsei University",
+                            "Bachelor of Engineering  BE\u00a0Civil & Enviromental Engineering",
+                            "LinkedIn"
+              ],
+              "experience": "",
+              "extracted_keywords": [
+                            "\uc5f0\ub77d\ucc98",
+                            "LinkedIn",
+                            "\uad00\ub9ac",
+                            "\uc18c\ud504\ud2b8\uc6e8\uc5b4",
+                            "\ud30c\uc774\ud1a4",
+                            "\ubd84\uc790\uc0dd\ubb3c\ud559Yunjae",
+                            "Kim",
+                            "Construction",
+                            "Project",
+                            "Coordinator",
+                            "\ubbf8\uad6d",
+                            "\uc560\ub108\ud558\uc784",
+                            "Read",
+                            "drawings",
+                            "speciality",
+                            "skills",
+                            "MEP",
+                            "plan",
+                            "calculation",
+                            "GENTLE",
+                            "MONSTER",
+                            "Construction",
+                            "Project",
+                            "Coordinator",
+                            "2022\ub144",
+                            "9\uc6d4",
+                            "Present",
+                            "1\ub144",
+                            "2\uac1c\uc6d4",
+                            "\ube4c\ub4dc\ube14\ub85dBuildBlock",
+                            "Project",
+                            "Lead",
+                            "2021\ub144",
+                            "11\uc6d4",
+                            "2022\ub144",
+                            "9\uc6d4",
+                            "11\uac1c\uc6d4",
+                            "\ubbf8\uad6d",
+                            "Yonsei",
+                            "University",
+                            "\uc5f0\uc138\ub300\ud559\uad50",
+                            "Bachelor",
+                            "Engineering",
+                            "Civil",
+                            "Enviromental",
+                            "Engineering",
+                            "2014\ub144",
+                            "\uc6d4",
+                            "2022\ub144",
+                            "2\uc6d4",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "Construction Project Coordinator",
+                                          0.4680196949653418
+                            ],
+                            [
+                                          "\ubbf8\uad6d \uce98\ub9ac\ud3ec\ub2c8\uc544 \uc560\ub108\ud558\uc784",
+                                          0.22604377480140042
+                            ],
+                            [
+                                          "\ud504\ub85c\uc81d\ud2b8 \uad00\ub9ac \uc18c\ud504\ud2b8\uc6e8\uc5b4",
+                                          0.04080262056661863
+                            ],
+                            [
+                                          "Yonsei University \uc5f0\uc138\ub300\ud559\uad50",
+                                          0.0336461221294835
+                            ],
+                            [
+                                          "MEP plan",
+                                          0.016014056513044692
+                            ],
+                            [
+                                          "GENTLE MONSTER",
+                                          0.015975359366982307
+                            ],
+                            [
+                                          "speciality skill",
+                                          0.015229722875152557
+                            ],
+                            [
+                                          "Project Lead",
+                                          0.01256194044907279
+                            ],
+                            [
+                                          "Read",
+                                          0.00832356394487239
+                            ],
+                            [
+                                          "drawing",
+                                          0.00829847060496897
+                            ],
+                            [
+                                          "\uac04\ub2e8\ud504\ub85c\ud544",
+                                          0.008002360359403297
+                            ],
+                            [
+                                          "Enviromental Engineering",
+                                          0.007847498984372252
+                            ],
+                            [
+                                          "\uacbd\ub825",
+                                          0.00776388252299461
+                            ],
+                            [
+                                          "\ubcf4\uc720\uae30\uc220",
+                                          0.007642833942511085
+                            ],
+                            [
+                                          "\ube4c\ub4dc\ube14\ub85dBuildBlock",
+                                          0.007515547234168432
+                            ],
+                            [
+                                          "calculation",
+                                          0.00751326371330085
+                            ],
+                            [
+                                          "2\uac1c\uc6d4",
+                                          0.00749496307967275
+                            ],
+                            [
+                                          "Present",
+                                          0.00744488217264647
+                            ],
+                            [
+                                          "Kim",
+                                          0.007279510889188165
+                            ],
+                            [
+                                          "9\uc6d4",
+                                          0.007253494904437007
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADP": 4,
+                            "CCONJ": 3,
+                            "DET": 3,
+                            "NOUN": 9,
+                            "NUM": 11,
+                            "PRON": 1,
+                            "PROPN": 40,
+                            "SPACE": 34,
+                            "SYM": 2,
+                            "VERB": 3
+              },
+              "resume_data": "\u00a0 \u00a0\n\uc5f0\ub77d\ucc98\nwww.linkedin.com/in/yunjae-\nkim-14140022b  (LinkedIn)\n\ub300\ud45c \ubcf4\uc720\uae30\uc220\n\ud504\ub85c\uc81d\ud2b8 \uad00\ub9ac \uc18c\ud504\ud2b8\uc6e8\uc5b4\n\ud30c\uc774\ud1a4\n\ubd84\uc790\uc0dd\ubb3c\ud559Yunjae Kim\nConstruction Project Coordinator\n\ubbf8\uad6d \uce98\ub9ac\ud3ec\ub2c8\uc544 \uc560\ub108\ud558\uc784\n\uac04\ub2e8\ud504\ub85c\ud544\nRead & Understand the drawings\nHas the speciality skills of reading the MEP plan and calculation\n\uacbd\ub825\nGENTLE MONSTER\nConstruction Project Coordinator\n2022\ub144 9\uc6d4\u00a0-\u00a0Present\u00a0 (1\ub144 2\uac1c\uc6d4)\n\ubbf8\uad6d\n\ube4c\ub4dc\ube14\ub85dBuildBlock\nProject Lead\n2021\ub144 11\uc6d4\u00a0-\u00a02022\ub144 9\uc6d4\u00a0 (11\uac1c\uc6d4)\n\ubbf8\uad6d\n\ud559\ub825\nYonsei University \uc5f0\uc138\ub300\ud559\uad50\nBachelor of Engineering - BE,\u00a0Civil & Enviromental Engineering \u00a0\u00b7\u00a0(2014\ub144 3\n\uc6d4\u00a0-\u00a02022\ub144 2\uc6d4)\n\u00a0 Page 1 of 1",
+              "tri_grams": "[\ud504\ub85c\uc81d\ud2b8 \uad00\ub9ac \uc18c\ud504\ud2b8\uc6e8\uc5b4, Construction Project Coordinator, \ubbf8\uad6d \uce98\ub9ac\ud3ec\ub2c8\uc544 \uc560\ub108\ud558\uc784, Understand the drawings, skills of reading, reading the MEP, plan and calculation, Construction Project Coordinator, Yonsei University \uc5f0\uc138\ub300\ud559\uad50, Bachelor of Engineering]",
+              "unique_id": "190e63ef-037c-4431-97fa-1e58646e9950",
+              "years": []
+}

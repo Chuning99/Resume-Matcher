@@ -1,0 +1,171 @@
+{
+              "bi_grams": "[LinkedInJose FelixVillasenor, Civil Engineering, Engineering Construction, Los Angeles, Angeles California, California United, United States, year student, USC studying, studying Civil, Civil Engineering, Construction Engineering, particularly interested, sustainable design, CDM Smith, Construction Intern, Irvine California, California United, United States, Southern California, Civil Engineering]",
+              "clean_data": "\u00a0 \u00a0\nContact\n/\njosefelixvillasenor  LinkedInJose FelixVillasenor\nCivil Engineering Construction @ USC\nLos Angeles California United States\nSummary\nFirst Generation 3rd year student at USC studying Civil Engineering\nwith an emphasis in Construction Engineering and Management\nJose is particularly interested in sustainable design and innovative\ntechnologies\nExperience\nCDM Smith\nConstruction Intern\nJune 2023\u00a0\u00a0August 2023\u00a0 3 months\nIrvine California United States\nEducation\nUniversity of Southern California\nBachelor of Science  BS\u00a0Civil Engineering \u00a0\u00a02021\u00a0\u00a02025\n\u00a0 Page 1 of 1",
+              "emails": [],
+              "entities": [
+                            "Civil Engineering",
+                            "Irvine",
+                            "Construction Engineering and Management\nJose",
+                            "United States",
+                            "USC",
+                            "LinkedInJose FelixVillasenor\nCivil Engineering Construction @ USC",
+                            "University of Southern California\nBachelor of Science  BS\u00a0Civil Engineering",
+                            "CDM Smith",
+                            "Los Angeles",
+                            "California"
+              ],
+              "experience": "Summary \n First Generation 3rd year student at USC studying Civil Engineering \n with an emphasis in Construction Engineering and Management \n Jose is particularly interested in sustainable design and innovative \n technologies \n Experience \n CDM Smith \n Construction Intern \n June 2023 \u00a0\u00a0 August 2023 \u00a0  3 months \n Irvine California United States \n Education \n University of Southern California \n Bachelor of Science   BS \u00a0 Civil Engineering \u00a0\u00a0 2021 \u00a0\u00a0 2025 \n\u00a0  Page 1 of 1",
+              "extracted_keywords": [
+                            "Contact",
+                            "josefelixvillasenor",
+                            "FelixVillasenor",
+                            "Civil",
+                            "Engineering",
+                            "Construction",
+                            "USC",
+                            "Los",
+                            "Angeles",
+                            "California",
+                            "United",
+                            "States",
+                            "Summary",
+                            "First",
+                            "Generation",
+                            "year",
+                            "student",
+                            "USC",
+                            "Civil",
+                            "Engineering",
+                            "emphasis",
+                            "Construction",
+                            "Engineering",
+                            "Management",
+                            "Jose",
+                            "design",
+                            "technologies",
+                            "Experience",
+                            "CDM",
+                            "Smith",
+                            "Construction",
+                            "Intern",
+                            "June",
+                            "August",
+                            "months",
+                            "Irvine",
+                            "California",
+                            "United",
+                            "States",
+                            "Education",
+                            "University",
+                            "Southern",
+                            "California",
+                            "Bachelor",
+                            "Science",
+                            "BS",
+                            "Civil",
+                            "Engineering",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "Los Angeles California United States",
+                                          0.2427177107921241
+                            ],
+                            [
+                                          "Civil Engineering",
+                                          0.11410459800852893
+                            ],
+                            [
+                                          "Generation 3rd year student",
+                                          0.09420768698790953
+                            ],
+                            [
+                                          "Civil Engineering Construction",
+                                          0.08860514941795826
+                            ],
+                            [
+                                          "Irvine California United States",
+                                          0.036698146914205566
+                            ],
+                            [
+                                          "sustainable design",
+                                          0.03088220903132787
+                            ],
+                            [
+                                          "Construction Intern",
+                                          0.027591420620506853
+                            ],
+                            [
+                                          "CDM Smith",
+                                          0.027474968597844575
+                            ],
+                            [
+                                          "USC",
+                                          0.01845841270770833
+                            ],
+                            [
+                                          "Southern California",
+                                          0.017941715802963498
+                            ],
+                            [
+                                          "Experience",
+                                          0.014526552625309344
+                            ],
+                            [
+                                          "technology",
+                                          0.014225450145526524
+                            ],
+                            [
+                                          "interested",
+                                          0.013970309132913094
+                            ],
+                            [
+                                          "summary",
+                                          0.01391070855230615
+                            ],
+                            [
+                                          "August",
+                                          0.01386407582108599
+                            ],
+                            [
+                                          "innovative",
+                                          0.013860632574972503
+                            ],
+                            [
+                                          "June",
+                                          0.013764692735343339
+                            ],
+                            [
+                                          "Jose",
+                                          0.013738514607460698
+                            ],
+                            [
+                                          "month",
+                                          0.013736193599250051
+                            ],
+                            [
+                                          "FelixVillasenor",
+                                          0.013680658430999096
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 5,
+                            "ADP": 8,
+                            "ADV": 1,
+                            "AUX": 1,
+                            "CCONJ": 2,
+                            "DET": 1,
+                            "NOUN": 7,
+                            "NUM": 7,
+                            "PROPN": 41,
+                            "SPACE": 26,
+                            "SYM": 1,
+                            "VERB": 2
+              },
+              "resume_data": "\u00a0 \u00a0\nContact\nwww.linkedin.com/in/\njosefelixvillasenor  (LinkedIn)Jose Felix-Villasenor\nCivil Engineering (Construction) @ USC\nLos Angeles, California, United States\nSummary\nFirst Generation, 3rd year student at USC studying Civil Engineering\nwith an emphasis in Construction Engineering and Management.\nJose is particularly interested in sustainable design and innovative\ntechnologies.\nExperience\nCDM Smith\nConstruction Intern\nJune 2023\u00a0-\u00a0August 2023\u00a0 (3 months)\nIrvine, California, United States\nEducation\nUniversity of Southern California\nBachelor of Science - BS,\u00a0Civil Engineering \u00a0\u00b7\u00a0(2021\u00a0-\u00a02025)\n\u00a0 Page 1 of 1",
+              "tri_grams": "[Civil Engineering Construction, Los Angeles California, Angeles California United, California United States, student at USC, USC studying Civil, studying Civil Engineering, emphasis in Construction, Engineering and Management, Jose is particularly, interested in sustainable, design and innovative, Irvine California United, California United States, University of Southern, Bachelor of Science]",
+              "unique_id": "96bdc7cd-a21b-47a3-b70f-290bf899157a",
+              "years": []
+}
