@@ -1,0 +1,179 @@
+{
+              "bi_grams": "[Financial Goals, PresentationsRay Lee, Costco Wholesale, Bellflower California, California United, United States, Costco Wholesale, Hearing Aid, Aid Consultant, Consistently driven, driven sales, sales growth, customer satisfaction, company targets, strategic planning, Costco Wholesale, Business Sales, Sales Associate, Built business, business credibility, credibility negotiating, negotiating discounts, increased warehouse, exceptional customer, customer service, Hope International, International University, Biblical Studies]",
+              "clean_data": "\u00a0 \u00a0\nContact\n\nlee45684b273  LinkedIn\nTop Skills\nOriginations\nFinancial Goals\nPresentationsRay Lee\nCostco Wholesale\nBellflower California United States\nExperience\nCostco Wholesale\nHearing Aid Consultant\nMarch 2021\u00a0\u00a0Present\u00a0 2 years 8 months\nConsistently driven sales growth and customer satisfaction that exceed\ncompany targets through relationshipbuilding and strategic planning\nCostco Wholesale\nBusiness Sales Associate\nJanuary 2015\u00a0\u00a0February 2020\u00a0 5 years 2 months\nBuilt business credibility negotiating discounts and increased warehouse\nrevenue every year through exceptional customer service\nEducation\nHope International University\nBachelor's degree\u00a0Bible/Biblical Studies\n\u00a0 Page 1 of 1",
+              "emails": [],
+              "entities": [
+                            "Costco",
+                            "LinkedIn",
+                            "Hope International University",
+                            "Bachelor",
+                            "United States"
+              ],
+              "experience": "Skills \n Originations \n Financial Goals \n PresentationsRay Lee \n Costco Wholesale \n Bellflower California United States \n Experience \n Costco Wholesale \n Hearing Aid Consultant \n March 2021 \u00a0\u00a0 Present \u00a0  2 years 8 months \n Consistently driven sales growth and customer satisfaction that exceed \n company targets through relationshipbuilding and strategic planning \n Costco Wholesale \n Business Sales Associate \n January 2015 \u00a0\u00a0 February 2020 \u00a0  5 years 2 months \n Built business credibility negotiating discounts and increased warehouse \n revenue every year through exceptional customer service \n Education \n Hope International University \n Bachelor 's degree \u00a0 Bible / Biblical Studies \n\u00a0  Page 1 of 1",
+              "extracted_keywords": [
+                            "Contact",
+                            "lee45684b273",
+                            "LinkedIn",
+                            "Top",
+                            "Skills",
+                            "Originations",
+                            "Financial",
+                            "Goals",
+                            "PresentationsRay",
+                            "Lee",
+                            "Costco",
+                            "Wholesale",
+                            "Bellflower",
+                            "California",
+                            "United",
+                            "States",
+                            "Experience",
+                            "Costco",
+                            "Wholesale",
+                            "Hearing",
+                            "Aid",
+                            "Consultant",
+                            "March",
+                            "Present",
+                            "years",
+                            "months",
+                            "sales",
+                            "growth",
+                            "customer",
+                            "satisfaction",
+                            "company",
+                            "planning",
+                            "Costco",
+                            "Wholesale",
+                            "Business",
+                            "Sales",
+                            "Associate",
+                            "January",
+                            "February",
+                            "years",
+                            "months",
+                            "business",
+                            "credibility",
+                            "discounts",
+                            "warehouse",
+                            "revenue",
+                            "year",
+                            "customer",
+                            "service",
+                            "Education",
+                            "Hope",
+                            "International",
+                            "University",
+                            "Bachelor",
+                            "degree",
+                            "Bible",
+                            "Biblical",
+                            "Studies",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "Bellflower California United States",
+                                          0.21695814843752237
+                            ],
+                            [
+                                          "Costco Wholesale",
+                                          0.16444649858595586
+                            ],
+                            [
+                                          "hearing aid consultant",
+                                          0.07020948263496544
+                            ],
+                            [
+                                          "Business Sales Associate",
+                                          0.04623815628396314
+                            ],
+                            [
+                                          "PresentationsRay Lee",
+                                          0.03245884242507843
+                            ],
+                            [
+                                          "customer satisfaction",
+                                          0.030979451110859625
+                            ],
+                            [
+                                          "sale growth",
+                                          0.030393959726587972
+                            ],
+                            [
+                                          "company target",
+                                          0.029741996717582146
+                            ],
+                            [
+                                          "Financial goal",
+                                          0.029248317272550808
+                            ],
+                            [
+                                          "strategic planning",
+                                          0.028487534039647478
+                            ],
+                            [
+                                          "exceptional customer service",
+                                          0.02616073859052645
+                            ],
+                            [
+                                          "Hope International University",
+                                          0.02505336295913255
+                            ],
+                            [
+                                          "year",
+                                          0.024923946569485923
+                            ],
+                            [
+                                          "business credibility",
+                                          0.019784065912828122
+                            ],
+                            [
+                                          "month",
+                                          0.017829007224954212
+                            ],
+                            [
+                                          "Originations",
+                                          0.013920102847114209
+                            ],
+                            [
+                                          "Skills",
+                                          0.013012837044921448
+                            ],
+                            [
+                                          "LinkedIn",
+                                          0.012374558171171082
+                            ],
+                            [
+                                          "Experience",
+                                          0.012212719065148743
+                            ],
+                            [
+                                          "March",
+                                          0.012030904385101675
+                            ]
+              ],
+              "name": [
+                            "Lin"
+              ],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 2,
+                            "ADP": 3,
+                            "ADV": 1,
+                            "CCONJ": 3,
+                            "DET": 1,
+                            "NOUN": 25,
+                            "NUM": 9,
+                            "PART": 1,
+                            "PRON": 1,
+                            "PROPN": 35,
+                            "SPACE": 29,
+                            "SYM": 1,
+                            "VERB": 6
+              },
+              "resume_data": "\u00a0 \u00a0\nContact\nwww.linkedin.com/in/ray-\nlee-45684b273  (LinkedIn)\nTop Skills\nOriginations\nFinancial Goals\nPresentationsRay Lee\nCostco Wholesale\nBellflower, California, United States\nExperience\nCostco Wholesale\nHearing Aid Consultant\nMarch 2021\u00a0-\u00a0Present\u00a0 (2 years 8 months)\nConsistently driven sales growth and customer satisfaction that exceed\ncompany targets through relationship-building and strategic planning.\nCostco Wholesale\nBusiness Sales Associate\nJanuary 2015\u00a0-\u00a0February 2020\u00a0 (5 years 2 months)\nBuilt business credibility, negotiating discounts, and increased warehouse\nrevenue every year through exceptional customer service.\nEducation\nHope International University\nBachelor's degree,\u00a0Bible/Biblical Studies\n\u00a0 Page 1 of 1",
+              "tri_grams": "[Bellflower California United, California United States, Hearing Aid Consultant, Consistently driven sales, driven sales growth, growth and customer, satisfaction that exceed, targets through relationshipbuilding, relationshipbuilding and strategic, Business Sales Associate, Built business credibility, business credibility negotiating, credibility negotiating discounts, discounts and increased, revenue every year, year through exceptional, exceptional customer service, Hope International University, Bachelor's degree]",
+              "unique_id": "3253765a-3196-4137-a253-3aa1efa2f8d7",
+              "years": []
+}

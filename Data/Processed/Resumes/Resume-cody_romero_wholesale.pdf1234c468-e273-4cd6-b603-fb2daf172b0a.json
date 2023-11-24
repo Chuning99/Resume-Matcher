@@ -1,0 +1,262 @@
+{
+              "bi_grams": "[Microsoft OfficeCody, OfficeCody Romero, Diamond Bar, Bar California, California United, United States, Costco Wholesale, Produce Associate, Chino Hills, Hills California, California United, United States, End Associate, Chino Hills, Hills California, California United, United States, Bed Bath, Receiving Lead, Sales Associate, sale floor, floor associate, associate selling, wide variety, customers Promoted, receiving department, department making, correct number, stocked properly, timely manner, maintaining excellent, excellent customer, customer service, Amini Innovation, Innovation Corporation, Corporation AICO, Warehouse Associate, Pico Rivera, Rivera California, California United, United States, Packaged furniture, timely manner, manner Moved, Moved packages, delivery trucks, trucks Detail, Detail checked, orders coming, warehouse Helped, Helped ship, ship packages, Mt San, San Antonio, Antonio College, Electronics Engineering, Fullerton College, Business Administration, Administration Management, Diamond Bar, Bar High, High School, High School, School Diploma, General Studies]",
+              "clean_data": "\u00a0 \u00a0\nContact\n\nromero56a1a160  LinkedIn\nTop Skills\nTeamwork\nRetail\nMicrosoft OfficeCody Romero\nCostco\nDiamond Bar California United States\nExperience\nCostco Wholesale\n2 years 4 months\nProduce Associate\nMay 2022\u00a0\u00a0Present\u00a0 1 year 6 months\nChino Hills California United States\nFront End Associate\nJuly 2021\u00a0\u00a0May 2022\u00a0 11 months\nChino Hills California United States\nBed Bath & Beyond\nReceiving Lead/Sales Associate\nJanuary 2015\u00a0\u00a0June 2020\u00a0 5 years 6 months\nStarted as a sale floor associate selling a wide variety of products to\ncustomers Promoted to lead and oversaw the receiving department making\nsure that the trucks were unloaded with the correct number of products the\nfloor was stocked properly in a timely manner and Inventory was correct all\nwhile maintaining excellent customer service\nAmini Innovation Corporation AICO\nWarehouse Associate\nMarch 2018\u00a0\u00a0May 2018\u00a0 3 months\nPico Rivera California United States\nPackaged furniture in an orderly and timely manner Moved packages in and\nout of delivery trucks Detail checked all orders coming in and going out of the\nwarehouse Helped ship packages out via Fedex and Ups \nEducation\nMt San Antonio College\nAssociate of Science  AS\u00a0Electrical and Electronics Engineering \u00a0\u00a0February\n2023\u00a0\u00a0December 2024\nFullerton College\n\u00a0 Page 1 of 2 \u00a0 \u00a0\nAssociate's degree\u00a0Business Administration Management and\nOperations \u00a0\u00a0August 2016\u00a0\u00a02022\nDiamond Bar High School\nHigh School Diploma\u00a0General Studies \u00a0\u00a0August 2010\u00a0\u00a0June 2014\n\u00a0 Page 2 of 2",
+              "emails": [],
+              "entities": [
+                            "Front End Associate",
+                            "Mt San Antonio College",
+                            "Operations",
+                            "Diamond Bar High School\nHigh School Diploma\u00a0General Studies",
+                            "Business Administration Management",
+                            "Started",
+                            "Costco",
+                            "Diamond Bar California United States",
+                            "Produce Associate",
+                            "Chino Hills",
+                            "Amini Innovation Corporation AICO",
+                            "Associate of Science  AS\u00a0Electrical and Electronics Engineering",
+                            "Retail\nMicrosoft",
+                            "Pico Rivera",
+                            "Fullerton College",
+                            "California",
+                            "United States",
+                            "LinkedIn"
+              ],
+              "experience": "Skills \n Teamwork \n Retail \n Microsoft OfficeCody Romero \n Costco \n Diamond Bar California United States \n Experience \n Costco Wholesale \n 2 years 4 months \n Produce Associate \n May 2022 \u00a0\u00a0 Present \u00a0  1 year 6 months \n Chino Hills California United States \n Front End Associate \n July 2021 \u00a0\u00a0 May 2022 \u00a0  11 months \n Chino Hills California United States \n Bed Bath & Beyond \n Receiving Lead / Sales Associate \n January 2015 \u00a0\u00a0 June 2020 \u00a0  5 years 6 months \n Started as a sale floor associate selling a wide variety of products to \n customers Promoted to lead and oversaw the receiving department making \n sure that the trucks were unloaded with the correct number of products the \n floor was stocked properly in a timely manner and Inventory was correct all \n while maintaining excellent customer service \n Amini Innovation Corporation AICO \n Warehouse Associate \n March 2018 \u00a0\u00a0 May 2018 \u00a0  3 months \n Pico Rivera California United States \n Packaged furniture in an orderly and timely manner Moved packages in and \n out of delivery trucks Detail checked all orders coming in and going out of the \n warehouse Helped ship packages out via Fedex and Ups \n Education \n Mt San Antonio College \n Associate of Science   AS \u00a0 Electrical and Electronics Engineering \u00a0\u00a0 February \n 2023 \u00a0\u00a0 December 2024 \n Fullerton College \n\u00a0  Page 1 of 2 \u00a0 \u00a0\n Associate 's degree \u00a0 Business Administration Management and \n Operations \u00a0\u00a0 August 2016 \u00a0\u00a0 2022 \n Diamond Bar High School \n High School Diploma \u00a0 General Studies \u00a0\u00a0 August 2010 \u00a0\u00a0 June 2014 \n\u00a0  Page 2 of 2",
+              "extracted_keywords": [
+                            "Contact",
+                            "romero56a1a160",
+                            "LinkedIn",
+                            "Top",
+                            "Skills",
+                            "Teamwork",
+                            "Retail",
+                            "Microsoft",
+                            "OfficeCody",
+                            "Romero",
+                            "Costco",
+                            "Diamond",
+                            "Bar",
+                            "California",
+                            "United",
+                            "States",
+                            "Experience",
+                            "Costco",
+                            "Wholesale",
+                            "years",
+                            "months",
+                            "Associate",
+                            "May",
+                            "Present",
+                            "year",
+                            "months",
+                            "Chino",
+                            "Hills",
+                            "California",
+                            "United",
+                            "States",
+                            "Front",
+                            "End",
+                            "Associate",
+                            "July",
+                            "May",
+                            "months",
+                            "Chino",
+                            "Hills",
+                            "California",
+                            "United",
+                            "States",
+                            "Bed",
+                            "Bath",
+                            "Beyond",
+                            "Lead",
+                            "Sales",
+                            "Associate",
+                            "January",
+                            "June",
+                            "years",
+                            "months",
+                            "sale",
+                            "floor",
+                            "associate",
+                            "variety",
+                            "products",
+                            "customers",
+                            "department",
+                            "trucks",
+                            "number",
+                            "products",
+                            "floor",
+                            "manner",
+                            "Inventory",
+                            "customer",
+                            "service",
+                            "Amini",
+                            "Innovation",
+                            "Corporation",
+                            "AICO",
+                            "Warehouse",
+                            "Associate",
+                            "March",
+                            "May",
+                            "months",
+                            "Pico",
+                            "Rivera",
+                            "California",
+                            "United",
+                            "States",
+                            "furniture",
+                            "manner",
+                            "Moved",
+                            "packages",
+                            "delivery",
+                            "trucks",
+                            "Detail",
+                            "orders",
+                            "warehouse",
+                            "ship",
+                            "packages",
+                            "Fedex",
+                            "Ups",
+                            "Education",
+                            "Mt",
+                            "San",
+                            "Antonio",
+                            "College",
+                            "Associate",
+                            "Science",
+                            "AS",
+                            "Electrical",
+                            "Electronics",
+                            "Engineering",
+                            "February",
+                            "December",
+                            "Fullerton",
+                            "College",
+                            "Page",
+                            "Associate",
+                            "degree",
+                            "Business",
+                            "Administration",
+                            "Management",
+                            "Operations",
+                            "August",
+                            "Diamond",
+                            "Bar",
+                            "High",
+                            "School",
+                            "High",
+                            "School",
+                            "Diploma",
+                            "General",
+                            "Studies",
+                            "August",
+                            "June",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "Chino Hills California United States",
+                                          0.4827101360114789
+                            ],
+                            [
+                                          "Associate",
+                                          0.06445667415286473
+                            ],
+                            [
+                                          "Diamond Bar",
+                                          0.056771033500577474
+                            ],
+                            [
+                                          "month",
+                                          0.04580154785683745
+                            ],
+                            [
+                                          "year",
+                                          0.022277943704619965
+                            ],
+                            [
+                                          "timely manner",
+                                          0.021849247029042423
+                            ],
+                            [
+                                          "June",
+                                          0.013727265057669377
+                            ],
+                            [
+                                          "floor",
+                                          0.009381917296304604
+                            ],
+                            [
+                                          "truck",
+                                          0.008966475514552427
+                            ],
+                            [
+                                          "product",
+                                          0.008964263441678444
+                            ],
+                            [
+                                          "Present",
+                                          0.008271595184521953
+                            ],
+                            [
+                                          "customer",
+                                          0.008231884563954898
+                            ],
+                            [
+                                          "correct",
+                                          0.006711598591139913
+                            ],
+                            [
+                                          "July",
+                                          0.0064878783191582605
+                            ],
+                            [
+                                          "End",
+                                          0.00627397146787962
+                            ],
+                            [
+                                          "January",
+                                          0.00534214928070909
+                            ],
+                            [
+                                          "Bath",
+                                          0.005235615443013177
+                            ],
+                            [
+                                          "package",
+                                          0.005154596790234342
+                            ],
+                            [
+                                          "Lead",
+                                          0.005153308722424494
+                            ],
+                            [
+                                          "Sales",
+                                          0.005142305809868553
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 9,
+                            "ADP": 18,
+                            "ADV": 2,
+                            "AUX": 3,
+                            "CCONJ": 9,
+                            "DET": 10,
+                            "NOUN": 34,
+                            "NUM": 25,
+                            "PART": 2,
+                            "PRON": 1,
+                            "PROPN": 95,
+                            "SCONJ": 2,
+                            "SPACE": 62,
+                            "SYM": 1,
+                            "VERB": 15
+              },
+              "resume_data": "\u00a0 \u00a0\nContact\nwww.linkedin.com/in/cody-\nromero-56a1a160  (LinkedIn)\nTop Skills\nTeamwork\nRetail\nMicrosoft OfficeCody Romero\nCostco\nDiamond Bar, California, United States\nExperience\nCostco Wholesale\n2 years 4 months\nProduce Associate\nMay 2022\u00a0-\u00a0Present\u00a0 (1 year 6 months)\nChino Hills, California, United States\nFront End Associate\nJuly 2021\u00a0-\u00a0May 2022\u00a0 (11 months)\nChino Hills, California, United States\nBed Bath & Beyond\nReceiving Lead/Sales Associate\nJanuary 2015\u00a0-\u00a0June 2020\u00a0 (5 years 6 months)\nStarted as a sale floor associate selling a wide variety of products to\ncustomers. Promoted to lead and oversaw the receiving department making\nsure that the trucks were unloaded with the correct number of products, the\nfloor was stocked properly in a timely manner, and Inventory was correct all\nwhile maintaining excellent customer service.\nAmini Innovation Corporation (AICO)\nWarehouse Associate\nMarch 2018\u00a0-\u00a0May 2018\u00a0 (3 months)\nPico Rivera, California, United States\nPackaged furniture in an orderly and timely manner. Moved packages in and\nout of delivery trucks. Detail checked all orders coming in and going out of the\nwarehouse. Helped ship packages out via Fedex and Ups. \nEducation\nMt. San Antonio College\nAssociate of Science - AS,\u00a0Electrical and Electronics Engineering \u00a0\u00b7\u00a0(February\n2023\u00a0-\u00a0December 2024)\nFullerton College\n\u00a0 Page 1 of 2 \u00a0 \u00a0\nAssociate's degree,\u00a0Business Administration, Management and\nOperations \u00a0\u00b7\u00a0(August 2016\u00a0-\u00a02022)\nDiamond Bar High School\nHigh School Diploma,\u00a0General Studies \u00a0\u00b7\u00a0(August 2010\u00a0-\u00a0June 2014)\n\u00a0 Page 2 of 2",
+              "tri_grams": "[Microsoft OfficeCody Romero, Diamond Bar California, Bar California United, California United States, Chino Hills California, Hills California United, California United States, Chino Hills California, Hills California United, California United States, sale floor associate, floor associate selling, selling a wide, variety of products, Promoted to lead, lead and oversaw, oversaw the receiving, receiving department making, trucks were unloaded, number of products, floor was stocked, manner and Inventory, Inventory was correct, maintaining excellent customer, excellent customer service, Amini Innovation Corporation, Innovation Corporation AICO, Pico Rivera California, Rivera California United, California United States, orderly and timely, timely manner Moved, manner Moved packages, delivery trucks Detail, trucks Detail checked, checked all orders, warehouse Helped ship, Helped ship packages, Fedex and Ups, Mt San Antonio, San Antonio College, Associate of Science, Electrical and Electronics, Associate's degree, Business Administration Management, Diamond Bar High, Bar High School, High School Diploma]",
+              "unique_id": "1234c468-e273-4cd6-b603-fb2daf172b0a",
+              "years": []
+}

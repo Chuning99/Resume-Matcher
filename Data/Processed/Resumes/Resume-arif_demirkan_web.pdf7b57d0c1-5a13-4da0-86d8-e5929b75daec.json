@@ -1,0 +1,246 @@
+{
+              "bi_grams": "[REST APIs, NextjsArif Demirkan, Web Developer, Los Angeles, Angeles California, California United, United States, Frontend Developer, Developer Intern, Frontend Developer, Developer Intern, Expanded UI, UI library, typing site, Independently launched, launched fluid, fluid highlighting, highlighting feature, users daily, UI improvements, leadership developed, pull requests, Improved animation, animation frame, frame rate, core component, Optimized legacy, legacy component, component reducing, reducing jQuery, jQuery calls, Frontend Developer, Developer Intern, Web Developer, Developer Intern, React Team, Expanded UI, UI library, edtech startup, led optimization, optimization task, task improving, improving page, page loadtime, core UI, UI components, support product, Implemented responsive, responsive UI, mobile support, Software Engineer, Engineer Intern, Software Engineer, Engineer Intern, Internal Tools, Tools Team, backend teams, build internal, internal tools, Developed scraper, parse rankings, Created internal, internal tool, automate updating, updating school, school ranks, database saving, + hours, data entry, UC San, San Diego, Computer Science]",
+              "clean_data": "\u00a0 \u00a0\nContact\n\nLinkedIn\narifdemirkan.vercel.app/  Personal\nTop Skills\nREST APIs\nDjango\nNextjsArif Demirkan\nWeb Developer\nLos Angeles California United States\nExperience\nMonkeytype\nFrontend Developer Intern\nJuly 2023\u00a0\u00a0Present\u00a0 4 months\nFrontend Developer Intern              \n Expanded UI library for #1 typing site with ~2 million users\n Independently launched fluid highlighting feature now serving ~120000\nusers daily\n Proposed several UI improvements to leadership developed and\nimplemented in pull requests\n Improved animation frame rate by ~52% in core component\n Optimized legacy component reducing jQuery calls by ~99% and DOM\nmanipulations by ~96%\nCounselHero\n6 months\nFrontend Developer Intern\nSeptember 2022\u00a0\u00a0December 2022\u00a0 4 months\nWeb Developer Intern  React Team                  \n Expanded UI library for edtech startup using React and Typescript\n Proposed and led optimization task improving page loadtime by ~21%\n Designed and implemented several core UI components to support product\nlaunch\n Implemented responsive UI for mobile support\nSoftware Engineer Intern\nJuly 2022\u00a0\u00a0September 2022\u00a0 3 months\nSoftware Engineer Intern  Internal Tools Team\n Collaborated with frontend and backend teams to build internal tools using\nPython\n Developed scraper to parse rankings of ~1500 universities\n Created internal tool to automate updating school ranks in database saving\n100+ hours of data entry\n\u00a0 Page 1 of 2 \u00a0 \u00a0\nEducation\nUC San Diego\nBachelor of Science  BS\u00a0Computer Science \u00a0\u00a02020\u00a0\u00a02024\n\u00a0 Page 2 of 2",
+              "emails": [],
+              "entities": [
+                            "UI",
+                            "LinkedIn",
+                            "DOM",
+                            "Software Engineer Intern  Internal Tools Team\n Collaborated",
+                            "San Diego",
+                            "jQuery",
+                            "United States",
+                            "Los Angeles",
+                            "UC",
+                            "California"
+              ],
+              "experience": "Skills \n REST APIs \n Django \n NextjsArif Demirkan \n Web Developer \n Los Angeles California United States \n Experience \n Monkeytype \n Frontend Developer Intern \n July 2023 \u00a0\u00a0 Present \u00a0  4 months \n Frontend Developer Intern              \n  Expanded UI library for # 1 typing site with ~2 million users \n  Independently launched fluid highlighting feature now serving \n users daily \n  Proposed several UI improvements to leadership developed and \n implemented in pull requests \n  Improved animation frame rate by ~52 % in core component \n  Optimized legacy component reducing jQuery calls by ~99 % and DOM \n manipulations by ~96 % \n CounselHero \n 6 months \n Frontend Developer Intern \n September 2022 \u00a0\u00a0 December 2022 \u00a0  4 months \n Web Developer Intern   React Team                  \n  Expanded UI library for edtech startup using React and Typescript \n  Proposed and led optimization task improving page loadtime by ~21 % \n  Designed and implemented several core UI components to support product \n launch \n  Implemented responsive UI for mobile support \n Software Engineer Intern \n July 2022 \u00a0\u00a0 September 2022 \u00a0  3 months \n Software Engineer Intern   Internal Tools Team \n  Collaborated with frontend and backend teams to build internal tools using \n Python \n  Developed scraper to parse rankings of ~1500 universities \n  Created internal tool to automate updating school ranks in database saving \n 100 + hours of data entry \n\u00a0  Page 1 of 2 \u00a0 \u00a0\n Education \n UC San Diego \n Bachelor of Science   BS \u00a0 Computer Science \u00a0\u00a0 2020 \u00a0\u00a0 2024 \n\u00a0  Page 2 of 2",
+              "extracted_keywords": [
+                            "Contact",
+                            "LinkedIn",
+                            "arifdemirkan.vercel.app/",
+                            "Personal",
+                            "Top",
+                            "Skills",
+                            "REST",
+                            "APIs",
+                            "Django",
+                            "NextjsArif",
+                            "Demirkan",
+                            "Web",
+                            "Developer",
+                            "Los",
+                            "Angeles",
+                            "California",
+                            "United",
+                            "States",
+                            "Experience",
+                            "Monkeytype",
+                            "Frontend",
+                            "Developer",
+                            "Intern",
+                            "July",
+                            "Present",
+                            "months",
+                            "Frontend",
+                            "Developer",
+                            "Intern",
+                            "UI",
+                            "library",
+                            "site",
+                            "~2",
+                            "users",
+                            "highlighting",
+                            "feature",
+                            "users",
+                            "UI",
+                            "improvements",
+                            "pull",
+                            "requests",
+                            "animation",
+                            "frame",
+                            "rate",
+                            "~52",
+                            "%",
+                            "core",
+                            "component",
+                            "legacy",
+                            "component",
+                            "jQuery",
+                            "calls",
+                            "%",
+                            "DOM",
+                            "manipulations",
+                            "%",
+                            "CounselHero",
+                            "months",
+                            "Frontend",
+                            "Developer",
+                            "Intern",
+                            "September",
+                            "December",
+                            "months",
+                            "Web",
+                            "Developer",
+                            "Intern",
+                            "React",
+                            "Team",
+                            "UI",
+                            "library",
+                            "edtech",
+                            "startup",
+                            "React",
+                            "Typescript",
+                            "optimization",
+                            "task",
+                            "page",
+                            "loadtime",
+                            "%",
+                            "core",
+                            "UI",
+                            "components",
+                            "product",
+                            "launch",
+                            "UI",
+                            "support",
+                            "Software",
+                            "Engineer",
+                            "Intern",
+                            "July",
+                            "September",
+                            "months",
+                            "Software",
+                            "Engineer",
+                            "Intern",
+                            "Internal",
+                            "Tools",
+                            "Team",
+                            "frontend",
+                            "teams",
+                            "tools",
+                            "Python",
+                            "scraper",
+                            "rankings",
+                            "universities",
+                            "tool",
+                            "school",
+                            "ranks",
+                            "database",
+                            "hours",
+                            "data",
+                            "entry",
+                            "Page",
+                            "Education",
+                            "UC",
+                            "San",
+                            "Diego",
+                            "Bachelor",
+                            "Science",
+                            "BS",
+                            "Computer",
+                            "Science",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "Frontend Developer Intern",
+                                          0.29048780738587854
+                            ],
+                            [
+                                          "Software Engineer Intern",
+                                          0.25700319906050123
+                            ],
+                            [
+                                          "web developer",
+                                          0.06051203258705596
+                            ],
+                            [
+                                          "developer Intern",
+                                          0.0489597177946383
+                            ],
+                            [
+                                          "UI library",
+                                          0.047639849905825586
+                            ],
+                            [
+                                          "month",
+                                          0.020958246975575173
+                            ],
+                            [
+                                          "July",
+                                          0.012398326061571688
+                            ],
+                            [
+                                          "component",
+                                          0.010039310312164323
+                            ],
+                            [
+                                          "internal tool",
+                                          0.008521791005992374
+                            ],
+                            [
+                                          "core",
+                                          0.007110516928480894
+                            ],
+                            [
+                                          "page",
+                                          0.006793421722249626
+                            ],
+                            [
+                                          "September",
+                                          0.005836480792035673
+                            ],
+                            [
+                                          "user",
+                                          0.005761355289787613
+                            ],
+                            [
+                                          "Team",
+                                          0.005532024157310762
+                            ],
+                            [
+                                          "React",
+                                          0.004653746933228633
+                            ],
+                            [
+                                          "call",
+                                          0.0039178119810141035
+                            ],
+                            [
+                                          "legacy",
+                                          0.003914480799185972
+                            ],
+                            [
+                                          "site",
+                                          0.0038657131885956597
+                            ],
+                            [
+                                          "jQuery",
+                                          0.0038507495606156118
+                            ],
+                            [
+                                          "feature",
+                                          0.0037997755677836743
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 12,
+                            "ADP": 18,
+                            "ADV": 3,
+                            "CCONJ": 6,
+                            "NOUN": 63,
+                            "NUM": 20,
+                            "PART": 4,
+                            "PROPN": 60,
+                            "PUNCT": 1,
+                            "SPACE": 58,
+                            "SYM": 3,
+                            "VERB": 27
+              },
+              "resume_data": "\u00a0 \u00a0\nContact\nwww.linkedin.com/in/arif-d\n(LinkedIn)\narifdemirkan.vercel.app/  (Personal)\nTop Skills\nREST APIs\nDjango\nNextjsArif Demirkan\nWeb Developer\nLos Angeles, California, United States\nExperience\nMonkeytype\nFrontend Developer Intern\nJuly 2023\u00a0-\u00a0Present\u00a0 (4 months)\nFrontend Developer, Intern              \n* Expanded UI library for #1 typing site with ~2 million users\n* Independently launched fluid highlighting feature, now serving ~120,000\nusers daily\n* Proposed several UI improvements to leadership, developed and\nimplemented in pull requests\n* Improved animation frame rate by ~52% in core component\n* Optimized legacy component, reducing jQuery calls by ~99% and DOM\nmanipulations by ~96%\nCounselHero\n6 months\nFrontend Developer Intern\nSeptember 2022\u00a0-\u00a0December 2022\u00a0 (4 months)\nWeb Developer Intern \u2013 React Team                  \n* Expanded UI library for ed-tech startup using React and Typescript\n* Proposed and led optimization task, improving page load-time by ~21%\n* Designed and implemented several core UI components to support product\nlaunch\n* Implemented responsive UI for mobile support\nSoftware Engineer Intern\nJuly 2022\u00a0-\u00a0September 2022\u00a0 (3 months)\nSoftware Engineer Intern \u2013 Internal Tools Team\n* Collaborated with frontend and backend teams to build internal tools using\nPython\n* Developed scraper to parse rankings of ~1500 universities\n* Created internal tool to automate updating school ranks in database, saving\n100+ hours of data entry\n\u00a0 Page 1 of 2 \u00a0 \u00a0\nEducation\nUC San Diego\nBachelor of Science - BS,\u00a0Computer Science \u00a0\u00b7\u00a0(2020\u00a0-\u00a02024)\n\u00a0 Page 2 of 2",
+              "tri_grams": "[Los Angeles California, Angeles California United, California United States, Frontend Developer Intern, Frontend Developer Intern, Expanded UI library, Independently launched fluid, launched fluid highlighting, fluid highlighting feature, feature now serving, Proposed several UI, improvements to leadership, implemented in pull, Improved animation frame, animation frame rate, Optimized legacy component, legacy component reducing, component reducing jQuery, reducing jQuery calls, Frontend Developer Intern, Web Developer Intern, Expanded UI library, library for edtech, startup using React, React and Typescript, Proposed and led, led optimization task, optimization task improving, task improving page, improving page loadtime, Designed and implemented, implemented several core, core UI components, components to support, Implemented responsive UI, UI for mobile, Software Engineer Intern, Software Engineer Intern, Internal Tools Team, Collaborated with frontend, frontend and backend, teams to build, build internal tools, scraper to parse, Created internal tool, tool to automate, automate updating school, updating school ranks, ranks in database, hours of data, UC San Diego, Bachelor of Science]",
+              "unique_id": "7b57d0c1-5a13-4da0-86d8-e5929b75daec",
+              "years": []
+}

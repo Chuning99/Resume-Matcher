@@ -1,0 +1,249 @@
+{
+              "bi_grams": "[Canadian Computing, Computing Olympiad, Bronze Plaque, Place Math, Fermat Contest, American Invitational, Invitational Mathematics, Examination Qualifier, Schulich Leader, Leader ScholarshipTimothy, ScholarshipTimothy Wang, Software Engineer, Engineer Intern, San Mateo, Mateo California, California United, United States, CS student, Waterloo Interested, C++ development, Software Engineer, Engineer Intern, San Mateo, Mateo California, California United, United States, Ford Motor, Motor Company, Networking Software, Software Developer, Ottawa Ontario, Ontario Canada, Uncaught Exception, Exception Inc, Software Engineer, Engineer Intern, Manhattan New, New York, York United, United States, Algo Monster, Software Engineer, Engineer Intern, Manhattan New, New York, York United, United States, Cloud Times, Times Global, Global Inc, Computer Science, Science Teacher, Markham Ontario, Ontario Canada, Degree Computer, Computer Science, Science Major, Major average, Crescent School, High School, School Diploma]",
+              "clean_data": "\u00a0 \u00a0\nContact\n\nLinkedIn\n  Personal\nTop Skills\nQNX\nLinux\nJenkins\nHonorsAwards\nCanadian Computing Olympiad\nBronze Plaque\n1st Place Math @ Mac\nFermat Contest\nAmerican Invitational Mathematics\nExamination Qualifier\nSchulich Leader ScholarshipTimothy Wang\nSoftware Engineer Intern @ Snowflake\nSan Mateo California United States\nSummary\nCS student at Waterloo Interested in C++ development\nExperience\nSnowflake\nSoftware Engineer Intern\nSeptember 2023\u00a0\u00a0Present\u00a0 2 months\nSan Mateo California United States\nFord Motor Company\nNetworking Software Developer\nJanuary 2023\u00a0\u00a0April 2023\u00a0 4 months\nOttawa Ontario Canada\nUncaught Exception Inc\nSoftware Engineer Intern\nMay 2022\u00a0\u00a0August 2022\u00a0 4 months\nManhattan New York United States\nAlgo Monster\nSoftware Engineer Intern\nMay 2022\u00a0\u00a0August 2022\u00a0 4 months\nManhattan New York United States\nCloud Times Global Inc\nComputer Science Teacher\nJuly 2020\u00a0\u00a0May 2022\u00a0 1 year 11 months\nMarkham Ontario Canada\nEducation\nUniversity of Waterloo\nBachelor's Degree Computer Science Major average 9667%\u00a0 \u00a0\u00a02021\n\u00a0 Page 1 of 2 \u00a0 \u00a0\nCrescent School\nHigh School Diploma\u00a0 \u00a0\u00a02017\n\u00a0 Page 2 of 2",
+              "emails": [],
+              "entities": [
+                            "Ford Motor Company",
+                            "Ottawa Ontario Canada",
+                            "American Invitational Mathematics\nExamination Qualifier",
+                            "United States",
+                            "QNX",
+                            "New York",
+                            "Cloud Times Global Inc\nComputer Science",
+                            "Manhattan",
+                            "Waterloo Interested",
+                            "Fermat Contest",
+                            "CS",
+                            "Markham Ontario Canada",
+                            "California",
+                            "San Mateo",
+                            "Education\nUniversity"
+              ],
+              "experience": "Skills \n QNX \n Linux \n Jenkins \n HonorsAwards \n Canadian Computing Olympiad \n Bronze Plaque \n 1st Place Math @ Mac \n Fermat Contest \n American Invitational Mathematics \n Examination Qualifier \n Schulich Leader ScholarshipTimothy Wang \n Software Engineer Intern @ Snowflake \n San Mateo California United States \n Summary \n CS student at Waterloo Interested in C++ development \n Experience \n Snowflake \n Software Engineer Intern \n September 2023 \u00a0\u00a0 Present \u00a0  2 months \n San Mateo California United States \n Ford Motor Company \n Networking Software Developer \n January 2023 \u00a0\u00a0 April 2023 \u00a0  4 months \n Ottawa Ontario Canada \n Uncaught Exception Inc \n Software Engineer Intern \n May 2022 \u00a0\u00a0 August 2022 \u00a0  4 months \n Manhattan New York United States \n Algo Monster \n Software Engineer Intern \n May 2022 \u00a0\u00a0 August 2022 \u00a0  4 months \n Manhattan New York United States \n Cloud Times Global Inc \n Computer Science Teacher \n July 2020 \u00a0\u00a0 May 2022 \u00a0  1 year 11 months \n Markham Ontario Canada \n Education \n University of Waterloo \n Bachelor 's Degree Computer Science Major average 9667 % \u00a0 \u00a0\u00a0 2021 \n\u00a0  Page 1 of 2 \u00a0 \u00a0\n Crescent School \n High School Diploma \u00a0 \u00a0\u00a0 2017 \n\u00a0  Page 2 of 2",
+              "extracted_keywords": [
+                            "Contact",
+                            "LinkedIn",
+                            "Personal",
+                            "Top",
+                            "Skills",
+                            "QNX",
+                            "Linux",
+                            "Jenkins",
+                            "HonorsAwards",
+                            "Canadian",
+                            "Computing",
+                            "Olympiad",
+                            "Bronze",
+                            "Plaque",
+                            "1st",
+                            "Place",
+                            "Math",
+                            "Mac",
+                            "Fermat",
+                            "Contest",
+                            "American",
+                            "Invitational",
+                            "Mathematics",
+                            "Examination",
+                            "Qualifier",
+                            "Schulich",
+                            "Leader",
+                            "ScholarshipTimothy",
+                            "Wang",
+                            "Software",
+                            "Engineer",
+                            "Intern",
+                            "Snowflake",
+                            "San",
+                            "Mateo",
+                            "California",
+                            "United",
+                            "States",
+                            "Summary",
+                            "CS",
+                            "student",
+                            "Waterloo",
+                            "Interested",
+                            "C++",
+                            "development",
+                            "Experience",
+                            "Snowflake",
+                            "Software",
+                            "Engineer",
+                            "Intern",
+                            "September",
+                            "Present",
+                            "months",
+                            "San",
+                            "Mateo",
+                            "California",
+                            "United",
+                            "States",
+                            "Ford",
+                            "Motor",
+                            "Company",
+                            "Networking",
+                            "Software",
+                            "Developer",
+                            "January",
+                            "April",
+                            "months",
+                            "Ottawa",
+                            "Ontario",
+                            "Canada",
+                            "Uncaught",
+                            "Exception",
+                            "Inc",
+                            "Software",
+                            "Engineer",
+                            "Intern",
+                            "May",
+                            "August",
+                            "months",
+                            "Manhattan",
+                            "New",
+                            "York",
+                            "United",
+                            "States",
+                            "Algo",
+                            "Monster",
+                            "Software",
+                            "Engineer",
+                            "Intern",
+                            "May",
+                            "August",
+                            "months",
+                            "Manhattan",
+                            "New",
+                            "York",
+                            "United",
+                            "States",
+                            "Cloud",
+                            "Times",
+                            "Global",
+                            "Inc",
+                            "Computer",
+                            "Science",
+                            "Teacher",
+                            "July",
+                            "May",
+                            "year",
+                            "months",
+                            "Markham",
+                            "Ontario",
+                            "Canada",
+                            "Education",
+                            "University",
+                            "Waterloo",
+                            "Bachelor",
+                            "Degree",
+                            "Computer",
+                            "Science",
+                            "Major",
+                            "%",
+                            "Page",
+                            "Crescent",
+                            "School",
+                            "High",
+                            "School",
+                            "Diploma",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "Manhattan New York United States",
+                                          0.36810229668538563
+                            ],
+                            [
+                                          "San Mateo California United States",
+                                          0.23679032825670351
+                            ],
+                            [
+                                          "Software Engineer Intern",
+                                          0.09454555043758031
+                            ],
+                            [
+                                          "month",
+                                          0.021081125394268898
+                            ],
+                            [
+                                          "Ontario Canada",
+                                          0.013071530162608026
+                            ],
+                            [
+                                          "Waterloo",
+                                          0.012026631621786844
+                            ],
+                            [
+                                          "Snowflake",
+                                          0.010238946292774036
+                            ],
+                            [
+                                          "Inc",
+                                          0.00782209134059211
+                            ],
+                            [
+                                          "August",
+                                          0.006453281661034388
+                            ],
+                            [
+                                          "Computer Science",
+                                          0.0063433612483562996
+                            ],
+                            [
+                                          "January",
+                                          0.005380125045292944
+                            ],
+                            [
+                                          "Developer",
+                                          0.0053542591717412324
+                            ],
+                            [
+                                          "experience",
+                                          0.005345119382523235
+                            ],
+                            [
+                                          "development",
+                                          0.005344913811729269
+                            ],
+                            [
+                                          "Networking",
+                                          0.005332119310213335
+                            ],
+                            [
+                                          "Company",
+                                          0.0053252507957940315
+                            ],
+                            [
+                                          "April",
+                                          0.0053070495648944276
+                            ],
+                            [
+                                          "Interested",
+                                          0.0052420237459022785
+                            ],
+                            [
+                                          "C++",
+                                          0.005206575643199048
+                            ],
+                            [
+                                          "Motor",
+                                          0.005196713052182713
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 3,
+                            "ADP": 7,
+                            "NOUN": 11,
+                            "NUM": 22,
+                            "PART": 1,
+                            "PROPN": 114,
+                            "SPACE": 59
+              },
+              "resume_data": "\u00a0 \u00a0\nContact\nwww.linkedin.com/in/t487wang\n(LinkedIn)\nwww.timothywang.ca/  (Personal)\nTop Skills\nQNX\nLinux\nJenkins\nHonors-Awards\nCanadian Computing Olympiad\nBronze Plaque\n1st Place Math @ Mac\nFermat Contest\nAmerican Invitational Mathematics\nExamination Qualifier\nSchulich Leader ScholarshipTimothy Wang\nSoftware Engineer Intern @ Snowflake\nSan Mateo, California, United States\nSummary\nCS student at Waterloo. Interested in C++ development.\nExperience\nSnowflake\nSoftware Engineer Intern\nSeptember 2023\u00a0-\u00a0Present\u00a0 (2 months)\nSan Mateo, California, United States\nFord Motor Company\nNetworking Software Developer\nJanuary 2023\u00a0-\u00a0April 2023\u00a0 (4 months)\nOttawa, Ontario, Canada\nUncaught Exception Inc.\nSoftware Engineer Intern\nMay 2022\u00a0-\u00a0August 2022\u00a0 (4 months)\nManhattan, New York, United States\nAlgo Monster\nSoftware Engineer Intern\nMay 2022\u00a0-\u00a0August 2022\u00a0 (4 months)\nManhattan, New York, United States\nCloud Times Global Inc.\nComputer Science Teacher\nJuly 2020\u00a0-\u00a0May 2022\u00a0 (1 year 11 months)\nMarkham, Ontario, Canada\nEducation\nUniversity of Waterloo\nBachelor's Degree, Computer Science, Major average: 96.67%\u00a0 \u00a0\u00b7\u00a0(2021)\n\u00a0 Page 1 of 2 \u00a0 \u00a0\nCrescent School\nHigh School Diploma,\u00a0 \u00a0\u00b7\u00a0(2017)\n\u00a0 Page 2 of 2",
+              "tri_grams": "[Canadian Computing Olympiad, American Invitational Mathematics, Schulich Leader ScholarshipTimothy, Leader ScholarshipTimothy Wang, Software Engineer Intern, San Mateo California, Mateo California United, California United States, student at Waterloo, Interested in C++, Software Engineer Intern, San Mateo California, Mateo California United, California United States, Ford Motor Company, Networking Software Developer, Ottawa Ontario Canada, Uncaught Exception Inc, Software Engineer Intern, Manhattan New York, New York United, York United States, Software Engineer Intern, Manhattan New York, New York United, York United States, Cloud Times Global, Times Global Inc, Computer Science Teacher, Markham Ontario Canada, University of Waterloo, Bachelor's Degree, Degree Computer Science, Computer Science Major, Science Major average, High School Diploma]",
+              "unique_id": "b286b4dc-069c-471a-949e-3fa3667e433d",
+              "years": []
+}

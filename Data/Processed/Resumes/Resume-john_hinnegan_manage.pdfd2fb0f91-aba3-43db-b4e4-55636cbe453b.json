@@ -1,0 +1,256 @@
+{
+              "bi_grams": "[Distributed Systems, Software Development, JavaJohn Hinnegan, Founder ExGoogle, ExGoogle ExAmazon, New York, York New, New York, York United, United States, Lumo offers, smart irrigation, irrigation system, helps growers, growers save, save water, water improve, crop quality, reduce costs, irrigation needs, farms growers, precisely control, help avoid, avoid overwatering, overwatering rapidly, rapidly detect, simplify reporting, Sr Manager, Manager Marketing, Marketing Technology, Greater New, New York, York City, City Area, Ad Tech, Sr Manager, Manager Advertising, Advertising Systems, Greater New, New York, York City, City Area, Telenav Acquired, inMarket August, CoFounder Acquired, Culver City, Hyper local, local Mobile, Mobile DSP, Investors IA, IA Google, Google Qualcomm, Customers Walmart, Walmart Kia, Kia Johnson, Software Development, Payment Systems, Systems Targeted, Targeted Ads, Party Ordering, Ordering Merchant, Merchant Tech, B Math, Computer Science]",
+              "clean_data": "\u00a0 \u00a0\nContact\n\nLinkedIn\n  Company\nTop Skills\nDistributed Systems\nSoftware Development\nJavaJohn Hinnegan\nFounder ExGoogle ExAmazon\nNew York New York United States\nExperience\nLumo\nCoFounder\nMarch 2022\u00a0\u00a0May 2023\u00a0 1 year 3 months\nLumo offers a smart irrigation system that helps growers save water improve\ncrop quality and reduce costs By using Lumo to manage the irrigation needs\nof their farms growers can precisely control and measure the amount of water\nbeing consumed by which plants We help avoid overwatering rapidly detect\nleaks and blockages and simplify reporting\nGoogle\nSr Manager Marketing Technology\nOctober 2018\u00a0\u00a0February 2022\u00a0 3 years 5 months\nGreater New York City Area\nMarketing & Ad Tech\nAmazon\nSr Manager Advertising Systems\nMarch 2017\u00a0\u00a0March 2018\u00a0 1 year 1 month\nGreater New York City Area\nThinknear by Telenav Acquired by inMarket August 2019\nCoFounder Acquired by Telenav\nJanuary 2011\u00a0\u00a0May 2015\u00a0 4 years 5 months\nCulver City CA\nHyper local Mobile DSP\nInvestors IA Google Qualcomm \nCustomers Walmart Kia Johnson & Johnson\n/\n\npotentialcreditstechstarsny/\n\u00a0 Page 1 of 2 \u00a0 \u00a0\nAmazon\nSoftware Development\nFebruary 2007\u00a0\u00a0August 2010\u00a0 3 years 7 months\nPayment Systems Targeted Ads 3rd Party Ordering Merchant Tech\nEngineering & Management\nEducation\nUniversity of Waterloo\nB Math\u00a0Computer Science\n\u00a0 Page 2 of 2",
+              "emails": [],
+              "entities": [
+                            "Greater New York City Area",
+                            "Thinknear",
+                            "Google",
+                            "Amazon",
+                            "New York",
+                            "Customers Walmart Kia Johnson & Johnson",
+                            "Telenav",
+                            "Engineering & Management\nEducation\nUniversity",
+                            "Lumo",
+                            "United States",
+                            "Ads 3rd Party"
+              ],
+              "experience": "Skills \n Distributed Systems \n Software Development \n JavaJohn Hinnegan \n Founder ExGoogle ExAmazon \n New York New York United States \n Experience \n Lumo \n CoFounder \n March 2022 \u00a0\u00a0 May 2023 \u00a0  1 year 3 months \n Lumo offers a smart irrigation system that helps growers save water improve \n crop quality and reduce costs By using Lumo to manage the irrigation needs \n of their farms growers can precisely control and measure the amount of water \n being consumed by which plants We help avoid overwatering rapidly detect \n leaks and blockages and simplify reporting \n Google \n Sr Manager Marketing Technology \n October 2018 \u00a0\u00a0 February 2022 \u00a0  3 years 5 months \n Greater New York City Area \n Marketing & Ad Tech \n Amazon \n Sr Manager Advertising Systems \n March 2017 \u00a0\u00a0 March 2018 \u00a0  1 year 1 month \n Greater New York City Area \n Thinknear by Telenav Acquired by inMarket August 2019 \n CoFounder Acquired by Telenav \n January 2011 \u00a0\u00a0 May 2015 \u00a0  4 years 5 months \n Culver City CA \n Hyper local Mobile DSP \n Investors IA Google Qualcomm \n Customers Walmart Kia Johnson & Johnson \n / \n\n potentialcreditstechstarsny/ \n\u00a0  Page 1 of 2 \u00a0 \u00a0\n Amazon \n Software Development \n February 2007 \u00a0\u00a0 August 2010 \u00a0  3 years 7 months \n Payment Systems Targeted Ads 3rd Party Ordering Merchant Tech \n Engineering & Management \n Education \n University of Waterloo \n B Math \u00a0 Computer Science \n\u00a0  Page 2 of 2",
+              "extracted_keywords": [
+                            "Contact",
+                            "LinkedIn",
+                            "Company",
+                            "Top",
+                            "Skills",
+                            "Distributed",
+                            "Systems",
+                            "Software",
+                            "Development",
+                            "JavaJohn",
+                            "Hinnegan",
+                            "Founder",
+                            "ExGoogle",
+                            "ExAmazon",
+                            "New",
+                            "York",
+                            "New",
+                            "York",
+                            "United",
+                            "States",
+                            "Experience",
+                            "Lumo",
+                            "CoFounder",
+                            "March",
+                            "May",
+                            "year",
+                            "months",
+                            "Lumo",
+                            "irrigation",
+                            "system",
+                            "growers",
+                            "water",
+                            "crop",
+                            "quality",
+                            "costs",
+                            "Lumo",
+                            "irrigation",
+                            "needs",
+                            "farms",
+                            "growers",
+                            "amount",
+                            "water",
+                            "plants",
+                            "leaks",
+                            "blockages",
+                            "reporting",
+                            "Google",
+                            "Sr",
+                            "Manager",
+                            "Marketing",
+                            "Technology",
+                            "October",
+                            "February",
+                            "years",
+                            "months",
+                            "Greater",
+                            "New",
+                            "York",
+                            "City",
+                            "Area",
+                            "Marketing",
+                            "Ad",
+                            "Tech",
+                            "Amazon",
+                            "Sr",
+                            "Manager",
+                            "Advertising",
+                            "Systems",
+                            "March",
+                            "March",
+                            "year",
+                            "month",
+                            "Greater",
+                            "New",
+                            "York",
+                            "City",
+                            "Area",
+                            "Thinknear",
+                            "Telenav",
+                            "Acquired",
+                            "inMarket",
+                            "August",
+                            "CoFounder",
+                            "Acquired",
+                            "Telenav",
+                            "January",
+                            "May",
+                            "years",
+                            "months",
+                            "Culver",
+                            "City",
+                            "CA",
+                            "Hyper",
+                            "Mobile",
+                            "DSP",
+                            "Investors",
+                            "IA",
+                            "Google",
+                            "Qualcomm",
+                            "Customers",
+                            "Walmart",
+                            "Kia",
+                            "Johnson",
+                            "Johnson",
+                            "Page",
+                            "Amazon",
+                            "Software",
+                            "Development",
+                            "February",
+                            "August",
+                            "years",
+                            "months",
+                            "Payment",
+                            "Systems",
+                            "Targeted",
+                            "Ads",
+                            "3rd",
+                            "Party",
+                            "Ordering",
+                            "Merchant",
+                            "Tech",
+                            "Engineering",
+                            "Management",
+                            "Education",
+                            "University",
+                            "Waterloo",
+                            "B",
+                            "Math",
+                            "Computer",
+                            "Science",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "Greater New York City Area",
+                                          0.3715418581751453
+                            ],
+                            [
+                                          "Software Development",
+                                          0.12556690141235624
+                            ],
+                            [
+                                          "JavaJohn Hinnegan",
+                                          0.08036618529401561
+                            ],
+                            [
+                                          "Sr Manager",
+                                          0.045652878887397295
+                            ],
+                            [
+                                          "year",
+                                          0.026410181791782308
+                            ],
+                            [
+                                          "month",
+                                          0.02611965522868496
+                            ],
+                            [
+                                          "Systems",
+                                          0.01942210720507039
+                            ],
+                            [
+                                          "Lumo",
+                                          0.019333049716826155
+                            ],
+                            [
+                                          "Distributed Systems",
+                                          0.018301024365082953
+                            ],
+                            [
+                                          "March",
+                                          0.016148875405348526
+                            ],
+                            [
+                                          "CoFounder",
+                                          0.013102202974909731
+                            ],
+                            [
+                                          "irrigation",
+                                          0.010354091878411721
+                            ],
+                            [
+                                          "grower",
+                                          0.010226365117087063
+                            ],
+                            [
+                                          "water",
+                                          0.009276614665760892
+                            ],
+                            [
+                                          "February",
+                                          0.006507177390841562
+                            ],
+                            [
+                                          "Marketing",
+                                          0.00593295098906643
+                            ],
+                            [
+                                          "quality",
+                                          0.00589347197155421
+                            ],
+                            [
+                                          "crop",
+                                          0.005802068141685227
+                            ],
+                            [
+                                          "cost",
+                                          0.00571792603349512
+                            ],
+                            [
+                                          "smart",
+                                          0.005578236031073709
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 3,
+                            "ADP": 10,
+                            "ADV": 2,
+                            "AUX": 3,
+                            "CCONJ": 7,
+                            "DET": 4,
+                            "NOUN": 32,
+                            "NUM": 25,
+                            "PART": 1,
+                            "PRON": 3,
+                            "PROPN": 96,
+                            "SPACE": 57,
+                            "SYM": 1,
+                            "VERB": 17
+              },
+              "resume_data": "\u00a0 \u00a0\nContact\nwww.linkedin.com/in/johnhinnegan\n(LinkedIn)\nwww.thinknear.com  (Company)\nTop Skills\nDistributed Systems\nSoftware Development\nJavaJohn Hinnegan\nFounder, Ex-Google, Ex-Amazon\nNew York, New York, United States\nExperience\nLumo\nCo-Founder\nMarch 2022\u00a0-\u00a0May 2023\u00a0 (1 year 3 months)\nLumo offers a smart irrigation system that helps growers save water, improve\ncrop quality, and reduce costs. By using Lumo to manage the irrigation needs\nof their farms, growers can precisely control and measure the amount of water\nbeing consumed by which plants. We help avoid overwatering, rapidly detect\nleaks and blockages, and simplify reporting.\nGoogle\nSr. Manager, Marketing Technology\nOctober 2018\u00a0-\u00a0February 2022\u00a0 (3 years 5 months)\nGreater New York City Area\nMarketing & Ad Tech.\nAmazon\nSr Manager, Advertising Systems\nMarch 2017\u00a0-\u00a0March 2018\u00a0 (1 year 1 month)\nGreater New York City Area\nThinknear by Telenav (Acquired by inMarket, August 2019)\nCo-Founder (Acquired by Telenav)\nJanuary 2011\u00a0-\u00a0May 2015\u00a0 (4 years 5 months)\nCulver City, CA\nHyper local, Mobile DSP\nInvestors: IA, Google, Qualcomm \nCustomers: Walmart, Kia, Johnson & Johnson\nhttps://techcrunch.com/2011/07/26/thinknear-1-6-million-launches/\nhttps://techcrunch.com/2012/10/18/thinknear-ceo-talks-about-post-acquisition-\npotential-credits-techstars-ny/\n\u00a0 Page 1 of 2 \u00a0 \u00a0\nAmazon\nSoftware Development\nFebruary 2007\u00a0-\u00a0August 2010\u00a0 (3 years 7 months)\nPayment Systems, Targeted Ads, 3rd Party Ordering (Merchant Tech)\nEngineering & Management\nEducation\nUniversity of Waterloo\nB. Math,\u00a0Computer Science\n\u00a0 Page 2 of 2",
+              "tri_grams": "[Founder ExGoogle ExAmazon, New York New, York New York, New York United, York United States, offers a smart, smart irrigation system, system that helps, helps growers save, growers save water, save water improve, quality and reduce, Lumo to manage, manage the irrigation, growers can precisely, control and measure, plants We help, help avoid overwatering, avoid overwatering rapidly, overwatering rapidly detect, leaks and blockages, blockages and simplify, Sr Manager Marketing, Manager Marketing Technology, Greater New York, New York City, York City Area, Sr Manager Advertising, Manager Advertising Systems, Greater New York, New York City, York City Area, Thinknear by Telenav, Acquired by inMarket, Acquired by Telenav, Hyper local Mobile, local Mobile DSP, Investors IA Google, IA Google Qualcomm, Customers Walmart Kia, Walmart Kia Johnson, Payment Systems Targeted, Systems Targeted Ads, Party Ordering Merchant, Ordering Merchant Tech, University of Waterloo]",
+              "unique_id": "d2fb0f91-aba3-43db-b4e4-55636cbe453b",
+              "years": []
+}

@@ -1,0 +1,278 @@
+{
+              "bi_grams": "[li LinkedIn, Amazon Web, Web Services, Services AWS, Google Cloud, Cloud Platform, Platform GCP, Highly efficient, efficient hydrogen, hydrogen generation, hydrazine borane, promoted NiPd, NiPd nanocatalystYaxing, nanocatalystYaxing Li, Computer Science, Science Master, USC |, | Machine, Machine Learning, Researcher |, | Software, Software Engineer, Los Angeles, Angeles California, California United, United States, Emerging computer, computer scientist, strong foundation, software engineering, engineering currently, currently pursuing, Computer Science, groundbreaking projects, projects like, ITHPDeBERTa model, excel rapidly, technological settings, unique blend, Materials Science, Japanese studies, studies provides, globally informed, informed perspective, prestigious institutions, continue making, making significant, significant contributions, A5 Labs, Software Engineer, Engineer Intern, Foster City, City California, California United, United States, USC Viterbi, Viterbi School, Course Producer, Los Angeles, Angeles California, California United, United States, Student Researcher, Cyber Physical, Physical Systems, Systems Group, Los Angeles, Angeles California, California United, United States, JITRI Institute, Process Modeling, Technology Solutions, Solutions Intern, Suzhou Jiangsu, Jiangsu China, Southern California, Computer Science]",
+              "clean_data": "\u00a0 \u00a0\nContact\n\nm\n\nli LinkedIn\nTop Skills\nAmazon Web Services AWS\nGoogle Cloud Platform GCP\nFlask\nPublications\nHighly efficient hydrogen generation\nfrom hydrazine borane via a MoOx\npromoted NiPd nanocatalystYaxing Li\nComputer Science Master's Candidate at USC | Machine Learning\nResearcher | Software Engineer\nLos Angeles California United States\nSummary\nEmerging computer scientist with a strong foundation in machine\nlearning and software engineering currently pursuing a Master's in\nComputer Science at USC Within a span of 2 years I've been at the\nforefront of groundbreaking projects like the ITHPDeBERTa model\ndemonstrating my capability to innovate and excel rapidly in diverse\nresearch and technological settings My unique blend of expertise\nfrom Materials Science and Japanese studies provides a holistic\nand globally informed perspective on problemsolving As an active\nresearcher and collaborator with prestigious institutions I'm eager to\ncontinue making significant contributions to the world of technology\nExperience\nA5 Labs\nSoftware Engineer Intern\nSeptember 2023\u00a0\u00a0Present\u00a0 2 months\nFoster City California United States\nUSC Viterbi School of Engineering\n7 months\nCourse Producer for CSCI 455\nAugust 2023\u00a0\u00a0Present\u00a0 3 months\nLos Angeles California United States\nStudent Researcher of Cyber Physical Systems Group\nApril 2023\u00a0\u00a0Present\u00a0 7 months\nLos Angeles California United States\nJITRI Institute for Process Modeling and Optimization\nTechnology Solutions Intern\nSeptember 2021\u00a0\u00a0June 2022\u00a0 10 months\nSuzhou Jiangsu China\n\u00a0 Page 1 of 2 \u00a0 \u00a0\nEducation\nUniversity of Southern California\nMaster of Science  MS\u00a0Computer Science\n\u00a0 Page 2 of 2",
+              "emails": [
+                            "william.yahsing.li@gmail.co"
+              ],
+              "entities": [
+                            "NiPd",
+                            "University of Southern California\nMaster of Science  MS\u00a0Computer Science\n\u00a0 Page 2",
+                            "MoOx",
+                            "Foster City",
+                            "USC Viterbi School of Engineering",
+                            "JITRI Institute for Process Modeling and Optimization\nTechnology Solutions Intern",
+                            "United States",
+                            "Amazon Web Services AWS",
+                            "China",
+                            "USC",
+                            "Cyber Physical Systems Group",
+                            "Suzhou Jiangsu",
+                            "Machine Learning",
+                            "Flask\nPublications\nHighly",
+                            "Los Angeles",
+                            "California"
+              ],
+              "experience": "Skills \n Amazon Web Services AWS \n Google Cloud Platform GCP \n Flask \n Publications \n Highly efficient hydrogen generation \n from hydrazine borane via a MoOx \n promoted NiPd nanocatalystYaxing Li \n Computer Science Master 's Candidate at USC | Machine Learning \n Researcher | Software Engineer \n Los Angeles California United States \n Summary \n Emerging computer scientist with a strong foundation in machine \n learning and software engineering currently pursuing a Master 's in \n Computer Science at USC Within a span of 2 years I 've been at the \n forefront of groundbreaking projects like the ITHPDeBERTa model \n demonstrating my capability to innovate and excel rapidly in diverse \n research and technological settings My unique blend of expertise \n from Materials Science and Japanese studies provides a holistic \n and globally informed perspective on problemsolving As an active \n researcher and collaborator with prestigious institutions I 'm eager to \n continue making significant contributions to the world of technology \n Experience \n A5 Labs \n Software Engineer Intern \n September 2023 \u00a0\u00a0 Present \u00a0  2 months \n Foster City California United States \n USC Viterbi School of Engineering \n 7 months \n Course Producer for CSCI 455 \n August 2023 \u00a0\u00a0 Present \u00a0  3 months \n Los Angeles California United States \n Student Researcher of Cyber Physical Systems Group \n April 2023 \u00a0\u00a0 Present \u00a0  7 months \n Los Angeles California United States \n JITRI Institute for Process Modeling and Optimization \n Technology Solutions Intern \n September 2021 \u00a0\u00a0 June 2022 \u00a0  10 months \n Suzhou Jiangsu China \n\u00a0  Page 1 of 2 \u00a0 \u00a0\n Education \n University of Southern California \n Master of Science   MS \u00a0 Computer Science \n\u00a0  Page 2 of 2",
+              "extracted_keywords": [
+                            "Contact",
+                            "m",
+                            "li",
+                            "LinkedIn",
+                            "Top",
+                            "Skills",
+                            "Amazon",
+                            "Web",
+                            "Services",
+                            "AWS",
+                            "Google",
+                            "Cloud",
+                            "Platform",
+                            "GCP",
+                            "Flask",
+                            "Publications",
+                            "hydrogen",
+                            "generation",
+                            "hydrazine",
+                            "borane",
+                            "MoOx",
+                            "NiPd",
+                            "Li",
+                            "Computer",
+                            "Science",
+                            "Master",
+                            "Candidate",
+                            "USC",
+                            "|",
+                            "Machine",
+                            "Learning",
+                            "Researcher",
+                            "|",
+                            "Software",
+                            "Engineer",
+                            "Los",
+                            "Angeles",
+                            "California",
+                            "United",
+                            "States",
+                            "Summary",
+                            "computer",
+                            "scientist",
+                            "foundation",
+                            "machine",
+                            "learning",
+                            "software",
+                            "engineering",
+                            "Master",
+                            "Computer",
+                            "Science",
+                            "USC",
+                            "span",
+                            "years",
+                            "forefront",
+                            "groundbreaking",
+                            "projects",
+                            "ITHPDeBERTa",
+                            "model",
+                            "capability",
+                            "research",
+                            "settings",
+                            "blend",
+                            "expertise",
+                            "Materials",
+                            "Science",
+                            "studies",
+                            "holistic",
+                            "perspective",
+                            "researcher",
+                            "collaborator",
+                            "institutions",
+                            "contributions",
+                            "world",
+                            "technology",
+                            "Experience",
+                            "A5",
+                            "Labs",
+                            "Software",
+                            "Engineer",
+                            "Intern",
+                            "September",
+                            "Present",
+                            "months",
+                            "Foster",
+                            "City",
+                            "California",
+                            "United",
+                            "States",
+                            "USC",
+                            "Viterbi",
+                            "School",
+                            "Engineering",
+                            "months",
+                            "Course",
+                            "Producer",
+                            "CSCI",
+                            "August",
+                            "Present",
+                            "months",
+                            "Los",
+                            "Angeles",
+                            "California",
+                            "United",
+                            "States",
+                            "Student",
+                            "Researcher",
+                            "Cyber",
+                            "Physical",
+                            "Systems",
+                            "Group",
+                            "April",
+                            "Present",
+                            "months",
+                            "Los",
+                            "Angeles",
+                            "California",
+                            "United",
+                            "States",
+                            "JITRI",
+                            "Institute",
+                            "Process",
+                            "Modeling",
+                            "Optimization",
+                            "Technology",
+                            "Solutions",
+                            "Intern",
+                            "September",
+                            "June",
+                            "months",
+                            "Suzhou",
+                            "Jiangsu",
+                            "China",
+                            "Page",
+                            "Education",
+                            "University",
+                            "Southern",
+                            "California",
+                            "Master",
+                            "Science",
+                            "MS",
+                            "Computer",
+                            "Science",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "Los Angeles California United States",
+                                          0.5192501035596174
+                            ],
+                            [
+                                          "Computer Science",
+                                          0.054206045819310204
+                            ],
+                            [
+                                          "Software Engineer",
+                                          0.044355012313606876
+                            ],
+                            [
+                                          "USC",
+                                          0.02999301965027588
+                            ],
+                            [
+                                          "Master",
+                                          0.023555575350963198
+                            ],
+                            [
+                                          "Researcher",
+                                          0.017653648702965794
+                            ],
+                            [
+                                          "month",
+                                          0.008789764705259334
+                            ],
+                            [
+                                          "Present",
+                                          0.006808974260116396
+                            ],
+                            [
+                                          "Learning",
+                                          0.005813861155415587
+                            ],
+                            [
+                                          "Machine",
+                                          0.005734218940045542
+                            ],
+                            [
+                                          "engineering",
+                                          0.005501255468942423
+                            ],
+                            [
+                                          "Intern",
+                                          0.005435025344285972
+                            ],
+                            [
+                                          "software",
+                                          0.005364834788108742
+                            ],
+                            [
+                                          "September",
+                                          0.005355211781278383
+                            ],
+                            [
+                                          "foundation",
+                                          0.005301608274803816
+                            ],
+                            [
+                                          "scientist",
+                                          0.005249286739839801
+                            ],
+                            [
+                                          "strong",
+                                          0.005172030534543969
+                            ],
+                            [
+                                          "Summary",
+                                          0.005170501077488522
+                            ],
+                            [
+                                          "computer",
+                                          0.005120226996329916
+                            ],
+                            [
+                                          "span",
+                                          0.004881004176946107
+                            ]
+              ],
+              "name": [
+                            "li LinkedIn"
+              ],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 10,
+                            "ADP": 28,
+                            "ADV": 4,
+                            "AUX": 3,
+                            "CCONJ": 7,
+                            "DET": 8,
+                            "NOUN": 37,
+                            "NUM": 16,
+                            "PART": 4,
+                            "PRON": 5,
+                            "PROPN": 103,
+                            "SPACE": 57,
+                            "SYM": 2,
+                            "VERB": 14
+              },
+              "resume_data": "\u00a0 \u00a0\nContact\nwilliam.yahsing.li@gmail.co\nm\nwww.linkedin.com/in/yaxingwilliam-\nli (LinkedIn)\nTop Skills\nAmazon Web Services (AWS)\nGoogle Cloud Platform (GCP)\nFlask\nPublications\nHighly efficient hydrogen generation\nfrom hydrazine borane via a MoOx-\npromoted NiPd nanocatalystYaxing Li\nComputer Science Master's Candidate at USC | Machine Learning\nResearcher | Software Engineer\nLos Angeles, California, United States\nSummary\nEmerging computer scientist with a strong foundation in machine\nlearning and software engineering, currently pursuing a Master's in\nComputer Science at USC. Within a span of 2 years, I've been at the\nforefront of groundbreaking projects like the ITHP-DeBERTa model,\ndemonstrating my capability to innovate and excel rapidly in diverse\nresearch and technological settings. My unique blend of expertise\nfrom Materials Science and Japanese studies provides a holistic\nand globally informed perspective on problem-solving. As an active\nresearcher and collaborator with prestigious institutions, I'm eager to\ncontinue making significant contributions to the world of technology.\nExperience\nA5 Labs\nSoftware Engineer Intern\nSeptember 2023\u00a0-\u00a0Present\u00a0 (2 months)\nFoster City, California, United States\nUSC Viterbi School of Engineering\n7 months\nCourse Producer for CSCI 455\nAugust 2023\u00a0-\u00a0Present\u00a0 (3 months)\nLos Angeles, California, United States\nStudent Researcher of Cyber Physical Systems Group\nApril 2023\u00a0-\u00a0Present\u00a0 (7 months)\nLos Angeles, California, United States\nJITRI Institute for Process Modeling and Optimization\nTechnology Solutions Intern\nSeptember 2021\u00a0-\u00a0June 2022\u00a0 (10 months)\nSuzhou, Jiangsu, China\n\u00a0 Page 1 of 2 \u00a0 \u00a0\nEducation\nUniversity of Southern California\nMaster of Science - MS,\u00a0Computer Science\n\u00a0 Page 2 of 2",
+              "tri_grams": "[Amazon Web Services, Web Services AWS, Google Cloud Platform, Cloud Platform GCP, Highly efficient hydrogen, efficient hydrogen generation, promoted NiPd nanocatalystYaxing, NiPd nanocatalystYaxing Li, Computer Science Master, Master's Candidate, Candidate at USC, USC | Machine, | Machine Learning, Researcher | Software, | Software Engineer, Los Angeles California, Angeles California United, California United States, Emerging computer scientist, foundation in machine, learning and software, software engineering currently, engineering currently pursuing, pursuing a Master, Science at USC, forefront of groundbreaking, groundbreaking projects like, like the ITHPDeBERTa, demonstrating my capability, capability to innovate, innovate and excel, rapidly in diverse, research and technological, settings My unique, blend of expertise, Science and Japanese, Japanese studies provides, provides a holistic, globally informed perspective, perspective on problemsolving, researcher and collaborator, collaborator with prestigious, continue making significant, making significant contributions, world of technology, Software Engineer Intern, Foster City California, City California United, California United States, USC Viterbi School, School of Engineering, Producer for CSCI, Los Angeles California, Angeles California United, California United States, Researcher of Cyber, Cyber Physical Systems, Physical Systems Group, Los Angeles California, Angeles California United, California United States, Institute for Process, Modeling and Optimization, Technology Solutions Intern, Suzhou Jiangsu China, University of Southern, Master of Science]",
+              "unique_id": "23a1e643-ae7c-4b8e-8812-3b7b44e6bfd4",
+              "years": []
+}
