@@ -1,0 +1,216 @@
+{
+              "bi_grams": "[Network Systems, AWS Lambda, \u4e2d\u6587 Native, AutoCAD Professional, Professional Level, Level II, Machine Learning, Reinforced SuperResolution, Generating Model, Model Based, Generative Adversarial, Adversarial Network, Innovative manufacturing, fiber metal, metal laminate, pipeXing Huang, UC San, San Diego, \u7f8e\u56fd \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde, \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde La, La Jolla, Jolla Shores, Software Engineer\uff5cRacing, Engineer\uff5cRacing Enthusiast, Amazon Web, Web Services, Services AWS, Software Engineer, Engineer Intern, Seattle Washington, Washington United, United States, Software Engineer, Engineer Intern, Stanford University, University Graduate, Graduate School, Research Assistant, Cohen Lab, McLaren Racing, Track Data, Data Engineer, Engineer Intern, Shanghai China, Computer Science]",
+              "clean_data": "\u00a0 \u00a0\n\u8054\u7cfb\u65b9\u5f0f\n\nLinkedIn\n\u70ed\u95e8\u6280\u80fd\nNetwork Systems\nAWS Lambda\nDynamoDB\nLanguages\nEnglish  Full Professional\n\u4e2d\u6587 Native or Bilingual\nCertifications\nAutoCAD Professional Level II\nMachine Learning\nPublications\nA Reinforced SuperResolution\nGenerating Model Based on\nGenerative Adversarial Network\nInnovative manufacturing and\napplication of fiber metal laminate\npipeXing Huang\nMSCS @ UC San Diego\n\u7f8e\u56fd \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde La Jolla Shores\n\u4e2a\u4eba\u7b80\u4ecb\nSoftware Engineer\uff5cRacing Enthusiast\n\u5de5\u4f5c\u7ecf\u5386\nAmazon Web Services AWS\nSoftware Engineer Intern\n2023 \u5e74 6 \u6708\u00a0\u00a02023 \u5e74 9 \u6708\u00a0 4 \u4e2a\u6708\nSeattle Washington United States\nSiemens\nSoftware Engineer Intern\n2022 \u5e74 4 \u6708\u00a0\u00a02022 \u5e74 7 \u6708\u00a0 4 \u4e2a\u6708\nStanford University Graduate School of Business\nResearch Assistant  Cohen Lab\n2021 \u5e74 6 \u6708\u00a0\u00a02021 \u5e74 12 \u6708\u00a0 7 \u4e2a\u6708\nMcLaren Racing\nTrack Data Engineer Intern\n2020 \u5e74 6 \u6708\u00a0\u00a02020 \u5e74 8 \u6708\u00a0 3 \u4e2a\u6708\nShanghai China\n\u6559\u80b2\u7ecf\u5386\n\u7f8e\u56fd\u52a0\u5dde\u5927\u5b66\u5723\u8fed\u6208\u5206\u6821\nMaster's degree\u00a0Computer Science \u00a0\u00a02022 \u5e74 9 \u6708\u00a0\u00a02024 \u5e74 6 \u6708\n\u00a0 Page 1 of 1",
+              "emails": [],
+              "entities": [
+                            "San Diego",
+                            "China",
+                            "United States",
+                            "Stanford University Graduate School of Business\nResearch",
+                            "MSCS",
+                            "LinkedIn",
+                            "Amazon Web Services AWS\n",
+                            "Seattle",
+                            "Shanghai",
+                            "Network Systems",
+                            "Generative Adversarial Network",
+                            "Washington",
+                            "Siemens\nSoftware Engineer Intern"
+              ],
+              "experience": "Certifications \n AutoCAD Professional Level II \n Machine Learning \n Publications \n A Reinforced SuperResolution \n Generating Model Based on \n Generative Adversarial Network \n Innovative manufacturing and \n application of fiber metal laminate \n pipeXing Huang \n MSCS @ UC San Diego \n \u7f8e\u56fd \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde La Jolla Shores \n \u4e2a\u4eba\u7b80\u4ecb \n Software Engineer\uff5cRacing Enthusiast \n \u5de5\u4f5c\u7ecf\u5386 \n Amazon Web Services AWS \n Software Engineer Intern \n 2023 \u5e74 6 \u00a0\u00a0 2023 \u5e74 9 \u00a0  4 \u4e2a \n Seattle Washington United States \n Siemens \n Software Engineer Intern \n 2022 \u5e74 4 \u00a0\u00a0 2022 \u5e74 7 \u00a0  4 \u4e2a \n Stanford University Graduate School of Business \n Research Assistant   Cohen Lab \n 2021 \u5e74 6 \u00a0\u00a0 2021 \u5e74 12 \u00a0  7 \u4e2a \n McLaren Racing \n Track Data Engineer Intern \n 2020 \u5e74 6 \u00a0\u00a0 2020 \u5e74 8 \u00a0  3 \u4e2a \n Shanghai China \n \u6559\u80b2\u7ecf\u5386 \n \u7f8e\u56fd\u52a0\u5dde\u5927\u5b66\u5723\u8fed\u6208\u5206\u6821 \n Master 's degree \u00a0 Computer Science \u00a0\u00a0 2022 \u5e74 9 \u00a0\u00a0 2024 \u5e74 6 \n\u00a0  Page 1 of 1",
+              "extracted_keywords": [
+                            "\u8054\u7cfb\u65b9\u5f0f",
+                            "LinkedIn",
+                            "\u70ed\u95e8\u6280\u80fd",
+                            "Network",
+                            "Systems",
+                            "AWS",
+                            "Lambda",
+                            "DynamoDB",
+                            "Languages",
+                            "English",
+                            "Full",
+                            "Professional",
+                            "Native",
+                            "Bilingual",
+                            "Certifications",
+                            "Professional",
+                            "Level",
+                            "II",
+                            "Machine",
+                            "Learning",
+                            "Publications",
+                            "Reinforced",
+                            "SuperResolution",
+                            "Generating",
+                            "Model",
+                            "Generative",
+                            "Adversarial",
+                            "Network",
+                            "Innovative",
+                            "manufacturing",
+                            "application",
+                            "fiber",
+                            "metal",
+                            "laminate",
+                            "Huang",
+                            "MSCS",
+                            "UC",
+                            "San",
+                            "Diego",
+                            "\u7f8e\u56fd",
+                            "\u52a0\u5229\u798f\u5c3c\u4e9a\u5dde",
+                            "La",
+                            "Jolla",
+                            "Shores",
+                            "\u4e2a\u4eba\u7b80\u4ecb",
+                            "Software",
+                            "Enthusiast",
+                            "Amazon",
+                            "Web",
+                            "Services",
+                            "AWS",
+                            "Software",
+                            "Engineer",
+                            "Intern",
+                            "\u4e2a",
+                            "Seattle",
+                            "Washington",
+                            "United",
+                            "States",
+                            "Siemens",
+                            "Software",
+                            "Engineer",
+                            "Intern",
+                            "\u4e2a",
+                            "Stanford",
+                            "University",
+                            "Graduate",
+                            "School",
+                            "Business",
+                            "Research",
+                            "Assistant",
+                            "Cohen",
+                            "Lab",
+                            "\u4e2a",
+                            "McLaren",
+                            "Racing",
+                            "Track",
+                            "Data",
+                            "Engineer",
+                            "Intern",
+                            "\u4e2a",
+                            "Shanghai",
+                            "China",
+                            "\u6559\u80b2\u7ecf\u5386",
+                            "\u7f8e\u56fd\u52a0\u5dde\u5927\u5b66\u5723\u8fed\u6208\u5206\u6821",
+                            "Master",
+                            "degree",
+                            "Computer",
+                            "Science",
+                            "Page"
+              ],
+              "keyterms": [
+                            [
+                                          "Software Engineer Intern",
+                                          0.549409588442846
+                            ],
+                            [
+                                          "\u52a0\u5229\u798f\u5c3c\u4e9a\u5dde La",
+                                          0.03843601888828434
+                            ],
+                            [
+                                          "\u7f8e\u56fd \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde",
+                                          0.027619963682182995
+                            ],
+                            [
+                                          "San Diego",
+                                          0.023484060392325756
+                            ],
+                            [
+                                          "metal laminate",
+                                          0.019411108021932025
+                            ],
+                            [
+                                          "UC San",
+                                          0.019083793981268412
+                            ],
+                            [
+                                          "fiber metal",
+                                          0.01621013727792528
+                            ],
+                            [
+                                          "Innovative manufacturing",
+                                          0.015838058784558445
+                            ],
+                            [
+                                          "\u5e74",
+                                          0.01566550450567281
+                            ],
+                            [
+                                          "Adversarial Network",
+                                          0.014615315840837233
+                            ],
+                            [
+                                          "Machine Learning",
+                                          0.012802183924101027
+                            ],
+                            [
+                                          "Generative Adversarial",
+                                          0.012695493155483482
+                            ],
+                            [
+                                          "Generating Model",
+                                          0.012194015746876053
+                            ],
+                            [
+                                          "Level II",
+                                          0.01192914210850904
+                            ],
+                            [
+                                          "AWS Lambda",
+                                          0.011591348956828784
+                            ],
+                            [
+                                          "\u4e2d\u6587 Native",
+                                          0.01050558673727594
+                            ],
+                            [
+                                          "Professional Level",
+                                          0.010458959844950277
+                            ],
+                            [
+                                          "Network Systems",
+                                          0.010395325660945738
+                            ],
+                            [
+                                          "\u4e2a\u6708",
+                                          0.0038980189291443618
+                            ],
+                            [
+                                          "States",
+                                          0.003130843893621443
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 1,
+                            "ADP": 5,
+                            "CCONJ": 2,
+                            "DET": 1,
+                            "NOUN": 12,
+                            "NUM": 26,
+                            "PART": 1,
+                            "PROPN": 87,
+                            "PUNCT": 3,
+                            "SPACE": 55,
+                            "SYM": 2,
+                            "VERB": 3,
+                            "X": 8
+              },
+              "resume_data": "\u00a0 \u00a0\n\u8054\u7cfb\u65b9\u5f0f\nwww.linkedin.com/in/xinghuang-\n(LinkedIn)\n\u70ed\u95e8\u6280\u80fd\nNetwork Systems\nAWS Lambda\nDynamoDB\nLanguages\nEnglish  (Full Professional)\n\u4e2d\u6587 (Native or Bilingual)\nCertifications\nAutoCAD Professional Level II\nMachine Learning\nPublications\nA Reinforced Super-Resolution\nGenerating Model Based on\nGenerative Adversarial Network\nInnovative manufacturing and\napplication of fiber metal laminate\npipeXing Huang\nMSCS @ UC San Diego\n\u7f8e\u56fd \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde La Jolla Shores\n\u4e2a\u4eba\u7b80\u4ecb\nSoftware Engineer\uff5cRacing Enthusiast\n\u5de5\u4f5c\u7ecf\u5386\nAmazon Web Services (AWS)\nSoftware Engineer Intern\n2023 \u5e74 6 \u6708\u00a0-\u00a02023 \u5e74 9 \u6708\u00a0 (4 \u4e2a\u6708)\nSeattle, Washington, United States\nSiemens\nSoftware Engineer Intern\n2022 \u5e74 4 \u6708\u00a0-\u00a02022 \u5e74 7 \u6708\u00a0 (4 \u4e2a\u6708)\nStanford University Graduate School of Business\nResearch Assistant - Cohen Lab\n2021 \u5e74 6 \u6708\u00a0-\u00a02021 \u5e74 12 \u6708\u00a0 (7 \u4e2a\u6708)\nMcLaren Racing\nTrack Data Engineer Intern\n2020 \u5e74 6 \u6708\u00a0-\u00a02020 \u5e74 8 \u6708\u00a0 (3 \u4e2a\u6708)\nShanghai, China\n\u6559\u80b2\u7ecf\u5386\n\u7f8e\u56fd\u52a0\u5dde\u5927\u5b66\u5723\u8fed\u6208\u5206\u6821\nMaster's degree,\u00a0Computer Science \u00a0\u00b7\u00a0(2022 \u5e74 9 \u6708\u00a0-\u00a02024 \u5e74 6 \u6708)\n\u00a0 Page 1 of 1",
+              "tri_grams": "[Native or Bilingual, AutoCAD Professional Level, Professional Level II, Generating Model Based, Generative Adversarial Network, application of fiber, fiber metal laminate, UC San Diego, \u7f8e\u56fd \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde La, \u52a0\u5229\u798f\u5c3c\u4e9a\u5dde La Jolla, La Jolla Shores, Software Engineer\uff5cRacing Enthusiast, Amazon Web Services, Web Services AWS, Software Engineer Intern, Seattle Washington United, Washington United States, Software Engineer Intern, Stanford University Graduate, University Graduate School, School of Business, Track Data Engineer, Data Engineer Intern, Master's degree]",
+              "unique_id": "d609588c-d38b-4e6d-bdd5-62cad9ae65f1",
+              "years": []
+}
