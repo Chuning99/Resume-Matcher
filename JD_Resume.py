@@ -159,7 +159,7 @@ class ResumeHandler:
             resumes_processed.append(resume_data)
         return resumes_processed
 
-    def embed_resume_description(self, resume_text):
+    def embed_resume(self, resume_text):
         embeddings = HuggingFaceEmbeddings()
         resume_embedding = embeddings.embed_documents(
             [resume_text['bi_grams']])
