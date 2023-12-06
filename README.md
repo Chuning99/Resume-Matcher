@@ -134,3 +134,8 @@ To run the full stack web application (frontend client and backend api servers),
 
 
 *Note: Please make sure that Qdrant_client's version is higher than v1.1*
+
+## How to run the application with new version:
+```yaml
+streamlit run Job_Resume_app_with_streamlit.py
+```
